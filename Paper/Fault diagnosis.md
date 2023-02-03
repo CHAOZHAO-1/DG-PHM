@@ -1,7 +1,5 @@
-## This file includes paper about domain generalization for fault diagnosis
 
-
-## Homogeneous domain generalization-based fault diagnosis, HDGFD
+## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
 - 2021-TNNLS-[Whitening-Net: A Generalized Network to Diagnose the Faults Among Different Machines and Conditions](https://ieeexplore.ieee.org/document/8643085)
 
@@ -23,3 +21,8 @@
 - 2020-IEEE Access-[Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions](https://ieeexplore.ieee.org/document/8643085)
 
 
+
+## Semisupervised domain generalization (Federated DGFD)
+## (Federated domain generalization-based fault diagnosis (FedDGFD)
+## (Federated domain generalization-based fault diagnosis (FedDGFD)
+## (Federated domain generalization-based fault diagnosis (FedDGFD)
