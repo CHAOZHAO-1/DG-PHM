@@ -1,6 +1,8 @@
 ## This file includes paper about domain generalization for fault diagnosis
 
 
+## Homogeneous domain generalization-based fault diagnosis, HDGFD
+
 - 2021-TNNLS-[Whitening-Net: A Generalized Network to Diagnose the Faults Among Different Machines and Conditions](https://ieeexplore.ieee.org/document/8643085)
 
 - 2021-TNNLS-[Causal Disentanglement: A Generalized Bearing Fault Diagnostic Framework in Continuous Degradation Mode](https://ieeexplore.ieee.org/document/8643085)
