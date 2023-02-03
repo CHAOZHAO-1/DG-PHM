@@ -44,9 +44,27 @@
 
 - 2020-IEEE Access-[Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions](https://ieeexplore.ieee.org/document/8643085)
 
+## Federated domain generalization-based fault diagnosis (FedDGFD)
 
+- 2022-KBS-[Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy](https://ieeexplore.ieee.org/document/8643085)
 
-## Semisupervised domain generalization (Federated DGFD)
-## (Federated domain generalization-based fault diagnosis (FedDGFD)
-## (Federated domain generalization-based fault diagnosis (FedDGFD)
-## (Federated domain generalization-based fault diagnosis (FedDGFD)
+## Semisupervised domain generalization (SemiDG)
+
+- 2023-MSSP-[Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions](https://ieeexplore.ieee.org/document/8643085)
+
+- 2023-TIM-[A New Adversarial Domain Generalization Network Based on Class Boundary Feature Detection for Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/8643085)
+
+- 2020-TIM-[Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed](https://ieeexplore.ieee.org/document/8643085)
+
+## Open set domain generalization-based fault diagnosis (OSDGFD)
+
+- 2022-RESS-[Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions](https://ieeexplore.ieee.org/document/8643085)
+
+## Multi-domain class-imbalance-based fault diagnosis (MDCIFD)
+
+-None
+
+## Single domain generalization-based fault diagnosis (SDGFD)
+
+- 2022-TII-[Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/document/8643085)
+
