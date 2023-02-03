@@ -1,6 +1,10 @@
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
+- 2022-MSSP-[A reliable feature-assisted contrastive generalization net for intelligent fault diagnosis under unseen machines and working conditions](https://ieeexplore.ieee.org/document/8643085)
+
+- 2022-TII-[Domain Transferability-based Deep Domain Generalization Method Towards Actual Fault Diagnosis Scenarios](https://ieeexplore.ieee.org/document/8643085)
+
 - 2022-MSSP-[A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis](https://ieeexplore.ieee.org/document/8643085)
 
 - 2022-algorithms-[Domain Generalization Model of Deep Convolutional Networks Based on SAND-Mask](https://ieeexplore.ieee.org/document/8643085)
@@ -16,6 +20,8 @@
 - 2022-Measurement-[NTScatNet: An interpretable convolutional neural network for domain generalization diagnosis across different transmission paths](https://ieeexplore.ieee.org/document/8643085)
 
 - 2022-Computational Intelligence and Neuroscience-[A Hybrid Matching Network for Fault Diagnosis under Different Working Conditions with Limited Data](https://ieeexplore.ieee.org/document/8643085)
+
+- 2021-TIM-[Deep Domain Generalization Combining APriori Diagnosis Knowledge Toward Cross-Domain Fault Diagnosis of Rolling Bearing](https://ieeexplore.ieee.org/document/8643085)
 
 - 2021-TIM-[Conditional Adversarial Domain Generalization With a Single Discriminator for Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/8643085)
 
