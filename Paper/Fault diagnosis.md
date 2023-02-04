@@ -46,7 +46,7 @@
 
 - 2022-KBS-[Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy](https://ieeexplore.ieee.org/document/8643085)
 
-## Semisupervised domain generalization (SemiDG)
+## Semisupervised domain generalization (SemiDGFD)
 
 - 2023-MSSP-[Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions](https://ieeexplore.ieee.org/document/8643085)
 
