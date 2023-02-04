@@ -13,7 +13,7 @@
 
 - 2022-TIM-[Fault Diagnosis of Rotating Machinery Under Multiple Operating Conditions Generalization: A Representation Gradient Muting Paradigm](https://ieeexplore.ieee.org/document/9915363)
 
-- 2022-TIM-[Conditional Contrastive Domain Generalization for Fault Diagnosis](https://ieeexplore.ieee.org/document/9721021) [[Code]([https://pan.baidu.com/s/14JEGQ56LJX7LMbd6GLtxCw](https://github.com/mohamedr002/CCDG))]
+- 2022-TIM-[Conditional Contrastive Domain Generalization for Fault Diagnosis](https://ieeexplore.ieee.org/document/9721021) [[Code](https://pan.baidu.com/s/14JEGQ56LJX7LMbd6GLtxCw)]
 
 - 2022-TCYB-[Sparsity-Constrained Invariant Risk Minimization for Domain Generalization With Application to Machinery Fault Diagnosis Modeling](https://ieeexplore.ieee.org/document/9976035)
 
