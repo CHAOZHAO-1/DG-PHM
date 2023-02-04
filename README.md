@@ -4,4 +4,4 @@ This is a reposotory that includes paper and code about domain generalization fo
 
 We will continue to update this reposotory.
 
-We hope this reposotory can be benifit your research.
+We hope this reposotory can benefit your research.
