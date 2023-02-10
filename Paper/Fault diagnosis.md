@@ -1,11 +1,11 @@
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
-- 2022-MSSP-[A reliable feature-assisted contrastive generalization net for intelligent fault diagnosis under unseen machines and working conditions](https://ieeexplore.ieee.org/document/8643085)
+- 2022-MSSP-[A reliable feature-assisted contrastive generalization net for intelligent fault diagnosis under unseen machines and working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327022010792)
 
 - 2022-TII-[Domain Transferability-based Deep Domain Generalization Method Towards Actual Fault Diagnosis Scenarios](https://ieeexplore.ieee.org/document/9905947)
 
-- 2022-MSSP-[A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis](https://ieeexplore.ieee.org/document/8643085)
+- 2022-MSSP-[A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis]( https://www.sciencedirect.com/science/article/pii/S0888327022001686)
 
 - 2022-algorithms-[Domain Generalization Model of Deep Convolutional Networks Based on SAND-Mask](https://www.mdpi.com/1999-4893/15/6/215)
 
@@ -17,9 +17,9 @@
 
 - 2022-TCYB-[Sparsity-Constrained Invariant Risk Minimization for Domain Generalization With Application to Machinery Fault Diagnosis Modeling](https://ieeexplore.ieee.org/document/9976035)
 
-- 2022-Measurement-[NTScatNet: An interpretable convolutional neural network for domain generalization diagnosis across different transmission paths](https://ieeexplore.ieee.org/document/8643085)
+- 2022-Measurement-[NTScatNet: An interpretable convolutional neural network for domain generalization diagnosis across different transmission paths]( https://www.sciencedirect.com/science/article/pii/S0263224122012374)
 
-- 2022-Computational Intelligence and Neuroscience-[A Hybrid Matching Network for Fault Diagnosis under Different Working Conditions with Limited Data](https://ieeexplore.ieee.org/document/8643085)
+- 2022-Computational Intelligence and Neuroscience-[A Hybrid Matching Network for Fault Diagnosis under Different Working Conditions with Limited Data]( https://www.hindawi.com/journals/cin/2022/3024590/)
 
 - 2021-TIM-[Deep Domain Generalization Combining APriori Diagnosis Knowledge Toward Cross-Domain Fault Diagnosis of Rolling Bearing](https://ieeexplore.ieee.org/document/9174912)
 
@@ -38,17 +38,17 @@
 - 2020-TIE-[Intelligent Fault Identification Based on MultiSource Domain Generalization Towards Actual Diagnosis Scenario](https://ieeexplore.ieee.org/document/8643085)
 
 
-- 2020-Neurocomputing-[Domain generalization in rotating machinery fault diagnostics using deep neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231220308092)
+- 2020-Neurocomputing-[Domain generalization in rotating machinery fault diagnostics using deep neural networks]( https://www.sciencedirect.com/science/article/pii/S0925231220308092)
 
 - 2020-IEEE Access-[Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions](https://ieeexplore.ieee.org/document/9093130)
 
 ## Federated domain generalization-based fault diagnosis (FedDGFD)
 
-- 2022-KBS-[Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy](https://ieeexplore.ieee.org/document/8643085)
+- 2022-KBS-[Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy]( https://www.sciencedirect.com/science/article/pii/S095070512200973X)
 
 ## Semisupervised domain generalization (SemiDGFD)
 
-- 2023-MSSP-[Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions](https://ieeexplore.ieee.org/document/8643085)
+- 2023-MSSP-[Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327022011426)
 
 - 2023-TIM-[A New Adversarial Domain Generalization Network Based on Class Boundary Feature Detection for Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/9745907)
 
@@ -56,7 +56,7 @@
 
 ## Open set domain generalization-based fault diagnosis (OSDGFD)
 
-- 2022-RESS-[Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions](https://ieeexplore.ieee.org/document/8643085)
+- 2022-RESS-[Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions]( https://www.sciencedirect.com/science/article/pii/S0951832022003064)
 
 ## Multi-domain class-imbalance-based fault diagnosis (MDCIFD)
 
