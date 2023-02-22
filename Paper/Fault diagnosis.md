@@ -1,7 +1,10 @@
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
-- 2022-MSSP-[A reliable feature-assisted contrastive generalization net for intelligent fault diagnosis under unseen machines and working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327022010792)
+- 2023-RESS-[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://www.sciencedirect.com/science/article/pii/S0951832023000868)
+
+
+- 2023-MSSP-[A reliable feature-assisted contrastive generalization net for intelligent fault diagnosis under unseen machines and working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327022010792)
 
 - 2022-TII-[Domain Transferability-based Deep Domain Generalization Method Towards Actual Fault Diagnosis Scenarios](https://ieeexplore.ieee.org/document/9905947)
 
