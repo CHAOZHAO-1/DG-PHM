@@ -30,9 +30,9 @@ data link:
 
 1.8 LW dataset
 
-Source paper:
+Source paper:SuperGraph: Spatial-temporal graph-based feature extraction for rotating machinery diagnosis
 
-data link:
+data link:https://github.com/ChaoyingYang/SuperGraph
 
 ## 2、Two self-collected dataset
 
