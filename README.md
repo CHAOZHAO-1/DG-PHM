@@ -1,7 +1,7 @@
 # Domain-generalization-for-PHM-Fault-diagnosis-and-prognosis
 
-This is a reposotory that includes paper and code about domain generalization for PHM. 
+This is a repository that includes papers and code about domain generalization for PHM.
 
-We will continue to update this reposotory.
+We will continue to update this repository.
 
-We hope this reposotory can benefit your research.
+We hope this repository can benefit your research.
