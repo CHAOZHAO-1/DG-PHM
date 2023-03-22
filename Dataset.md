@@ -1,4 +1,4 @@
-1、Eight opne-source dataset
+## 1、Eight open-source dataset
 
 1.1 IMS dataset
 
@@ -34,7 +34,7 @@ Source paper:
 
 data link:
 
-2、Two self-collected dataset
+## 2、Two self-collected dataset
 
 2.1 HUSTbearing dataset
 
