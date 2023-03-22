@@ -1,8 +1,8 @@
-## 1、Eight opne-source dataset
+1、Eight opne-source dataset
 
 1.1 IMS dataset
 
-data link: 
+data link: https://www.nasa.gov/intelligent-systems-division
 
 1.2 JNU dataset
 
@@ -10,7 +10,7 @@ data link:
 
 1.3 CWRU dataset
 
-data link: 
+data link: https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website
 
 1.4 PU dataset
 
@@ -22,7 +22,7 @@ data link:
 
 1.6 XJTU dataset
 
-data link:
+data link:http://biaowang.tech/xjtu-sy-bearing-datasets/
 
 1.7 PHM09 dataset
 
@@ -34,7 +34,7 @@ Source paper:
 
 data link:
 
-## 2、Two self-collected dataset
+2、Two self-collected dataset
 
 2.1 HUSTbearing dataset
 
