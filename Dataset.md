@@ -6,7 +6,7 @@ data link: https://www.nasa.gov/intelligent-systems-division
 
 1.2 JNU dataset
 
-data link: 
+data link: Data will be released if the review is accepted.
 
 1.3 CWRU dataset
 
@@ -18,7 +18,7 @@ data link: https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacent
 
 1.5 SCP dataset
 
-data link:
+data link: Data will be released if the review is accepted.
 
 1.6 XJTU dataset
 
@@ -26,7 +26,7 @@ data link:http://biaowang.tech/xjtu-sy-bearing-datasets/
 
 1.7 PHM09 dataset
 
-data link:
+data link: Data will be released if the review is accepted.
 
 1.8 LW dataset
 
@@ -38,10 +38,10 @@ data link:https://github.com/ChaoyingYang/SuperGraph
 
 2.1 HUSTbearing dataset
 
-data link:
+data link: Data will be released if the review is accepted.
 
 2.2 HUSTgearbox dataset
 
-data link:
+data link: Data will be released if the review is accepted.
 
 
