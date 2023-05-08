@@ -1,6 +1,13 @@
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
+- 2023-TII-[Relationship transfer domain generalization network for rotating machinery fault
+diagnosis under different working conditions](https://ieeexplore.ieee.org/document/10018483)
+- 
+- 2023-TII-[Meta-Learning Based Domain Generalization Framework for Fault Diagnosis with Gradient Aligning and Semantic Matching](https://ieeexplore.ieee.org/document/10091197)
+
+- 2023-ESA-[TinyML-enabled edge implementation of transfer learning framework for domain generalization in machine fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0957417422020346)
+
 - 2023-MSSP-[Deep causal factorization network: A novel domain generalization method for cross-machine bearing fault diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0888327023001358)
 
 - 2023-RESS-[Domain augmentation generalization network for real-time fault diagnosis under unseen working conditions](https://www.sciencedirect.com/science/article/abs/pii/S0951832023001035)
