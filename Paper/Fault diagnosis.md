@@ -1,6 +1,12 @@
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
+- 2023-MSSP-[Deep causal factorization network: A novel domain generalization method for cross-machine bearing fault diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0888327023001358)
+
+- 2023-RESS-[Domain augmentation generalization network for real-time fault diagnosis under unseen working conditions](https://www.sciencedirect.com/science/article/abs/pii/S0951832023001035)
+
+- 2023-TIE-[Deep mixed domain generalization network for intelligent fault diagnosis under unseen conditions](https://ieeexplore.ieee.org/document/10047970)
+
 - 2023-RESS-[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://www.sciencedirect.com/science/article/pii/S0951832023000868)
 
 
