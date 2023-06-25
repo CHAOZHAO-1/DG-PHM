@@ -4,6 +4,10 @@
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
+- 2023-RESS-[An information-induced fault diagnosis framework generalizing from stationary to unknown nonstationary working conditions](https://ieeexplore.ieee.org/document/10018483)
+
+- 2023-TIM-[Adaptive Class Center Generalization Network: A Sparse Domain-Regressive Framework for Bearing Fault Diagnosis Under Unknown Working Conditions](https://ieeexplore.ieee.org/document/10018483)
+
 - 2023-TII-[Relationship transfer domain generalization network for rotating machinery fault
 diagnosis under different working conditions](https://ieeexplore.ieee.org/document/10018483)
 
@@ -77,7 +81,7 @@ diagnosis under different working conditions](https://ieeexplore.ieee.org/docume
 
 - 2022-RESS-[Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions]( https://www.sciencedirect.com/science/article/pii/S0951832022003064)
 
-## Multi-domain class-imbalance-based fault diagnosis (MDCIFD)
+## Imbalanced domain generalization-based fault diagnosis (IDGFD)
 
 -None
 
