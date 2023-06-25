@@ -1,8 +1,6 @@
-## ## Reveiw paper 
+## Reveiw paper 
 
-
--2023-[An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis] (https://ieeexplore.ieee.org/document/10152676)
-
+- 2023-[An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis](https://ieeexplore.ieee.org/document/10152676)
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
