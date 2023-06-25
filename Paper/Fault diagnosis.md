@@ -4,9 +4,13 @@
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
-- 2023-RESS-[An information-induced fault diagnosis framework generalizing from stationary to unknown nonstationary working conditions](https://ieeexplore.ieee.org/document/10018483)
+- 2023-MST-[Fine-grained transfer learning based on deep feature decomposition for rotating equipment fault diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/acc04a/meta)
 
-- 2023-TIM-[Adaptive Class Center Generalization Network: A Sparse Domain-Regressive Framework for Bearing Fault Diagnosis Under Unknown Working Conditions](https://ieeexplore.ieee.org/document/10018483)
+- 2023-MSSP-[Few-shot learning under domain shift: Attentional contrastive calibrated transformer of time series for fault diagnosis under sharp speed variation](https://www.sciencedirect.com/science/article/abs/pii/S0888327022011396)
+
+- 2023-RESS-[An information-induced fault diagnosis framework generalizing from stationary to unknown nonstationary working conditions](https://www.sciencedirect.com/science/article/abs/pii/S0951832023002946)
+  
+- 2023-TIM-[Adaptive Class Center Generalization Network: A Sparse Domain-Regressive Framework for Bearing Fault Diagnosis Under Unknown Working Conditions](https://ieeexplore.ieee.org/abstract/document/10121353)
 
 - 2023-TII-[Relationship transfer domain generalization network for rotating machinery fault
 diagnosis under different working conditions](https://ieeexplore.ieee.org/document/10018483)
