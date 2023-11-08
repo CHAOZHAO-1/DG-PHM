@@ -15,5 +15,6 @@ We hope this repository can benefit your research.
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences. 
 
 ## Survey
-- 2023-[An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis](https://ieeexplore.ieee.org/document/10152676)
+- An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
+
 
