@@ -20,8 +20,8 @@ We hope this repository can benefit your research.
 
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
-> Domain alignment-based methods aim to minimize divergence between source domains for learning domain-invariant representations.
+> Class space between mutiple source domains and unseen target domain is same.
 > 
-- Domain Generalization via Invariant Feature Representation [[ICML 2013](http://proceedings.mlr.press/v28/muandet13.pdf)] [[Code](https://github.com/krikamol/dg-dica)]
+- VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions [[TIM 2013](https://ieeexplore.ieee.org/abstract/document/10216370)] 
 
 
