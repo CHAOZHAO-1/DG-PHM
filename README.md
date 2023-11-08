@@ -7,6 +7,7 @@ We will continue to update this repository.
 We hope this repository can benefit your research.
 
 # Contents
-- [Contents](#contents)
 - [Papers](#papers)
+-   - [Survey](#survey)
+    - [Regular paper](#Regular paper)
 
