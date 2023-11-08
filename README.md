@@ -18,3 +18,10 @@ We hope this repository can benefit your research.
 - An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
 
 
+### Homogeneous domain generalization-based fault diagnosis (HDGFD)
+
+> Domain alignment-based methods aim to minimize divergence between source domains for learning domain-invariant representations.
+> 
+- Domain Generalization via Invariant Feature Representation [[ICML 2013](http://proceedings.mlr.press/v28/muandet13.pdf)] [[Code](https://github.com/krikamol/dg-dica)]
+
+
