@@ -71,9 +71,20 @@ diagnosis under different working conditions](https://ieeexplore.ieee.org/docume
 
 ## Federated domain generalization-based fault diagnosis (FedDGFD)
 
+- 2023-IJMLC-[Federated domain generalization for intelligent fault diagnosis based on pseudo‑siamese network and robust global model aggregation](https://link.springer.com/article/10.1007/s13042-023-01934-2)
+
+- 2023-MST-[Federated Domain Generalization With Global Robust Model Aggregation Strategy For Bearing Fault Diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/ace841/meta)
+
+- 2023-TII-[Federated Domain Generalization: A Secure and
+Robust Framework for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10196327)
+
 - 2022-KBS-[Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy]( https://www.sciencedirect.com/science/article/pii/S095070512200973X)
 
 ## Semisupervised domain generalization (SemiDGFD)
+
+- 2023-EAAI-[Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)
+
+- 2023-MSSP-[Domain fuzzy generalization networks for semi-supervised intelligent fault diagnosis under unseen working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327023004879)
 
 - 2023-MSSP-[Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327022011426)
 
