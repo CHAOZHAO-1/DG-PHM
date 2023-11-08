@@ -22,6 +22,6 @@ We hope this repository can benefit your research.
 
 > Class space between mutiple source domains and unseen target domain is same.
 > 
-- VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions [[TIM 2013](https://ieeexplore.ieee.org/abstract/document/10216370)] 
+- VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions [[TIM 2023](https://ieeexplore.ieee.org/abstract/document/10216370)] 
 
 
