@@ -9,5 +9,5 @@ We hope this repository can benefit your research.
 # Contents
 - [Papers](#papers)
 -   - [Survey](#survey)
-    - [Regular paper](#Regular paper)
+-   - [Survey](#survey)
 
