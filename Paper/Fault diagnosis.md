@@ -4,6 +4,12 @@
 
 ## Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
+- 2023-TIM-[VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions](https://ieeexplore.ieee.org/abstract/document/10216370)
+
+- 2023-RESS-[Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0951832023004301)
+
+- 2023-RESS-[A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions](https://www.sciencedirect.com/science/article/pii/S0951832023003770)
+
 - 2023-MST-[Fine-grained transfer learning based on deep feature decomposition for rotating equipment fault diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/acc04a/meta)
 
 - 2023-MSSP-[Few-shot learning under domain shift: Attentional contrastive calibrated transformer of time series for fault diagnosis under sharp speed variation](https://www.sciencedirect.com/science/article/abs/pii/S0888327022011396)
