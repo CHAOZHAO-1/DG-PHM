@@ -1,3 +1,6 @@
+
+- 2023-JIM-[Towards prognostic generalization: a domain conditional invariance and specificity disentanglement network for remaining useful life prediction]( https://link.springer.com/article/10.1007/s10845-023-02215-z)
+
 - 2023-KBS-[Domain generalization via adversarial out-domain augmentation for remaining useful life prediction ofbearings under unseen conditions]( https://www.sciencedirect.com/science/article/pii/S0950705122012953)
 
 
