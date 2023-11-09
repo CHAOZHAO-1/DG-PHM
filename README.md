@@ -21,30 +21,12 @@ We hope this repository can benefit your research.
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
 > Class space between mutiple source domains and unseen target domain is same.
-> 
 - VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions [[TIM 2023](https://ieeexplore.ieee.org/abstract/document/10216370)]
-
 - Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023004301)]
-- A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions[[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023003770)]
+- A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023003770)]
 - Fine-grained transfer learning based on deep feature decomposition for rotating equipment fault diagnosis [[MST 2023](https://iopscience.iop.org/article/10.1088/1361-6501/acc04a/meta)]
 
 
-
-### Federated domain generalization-based fault diagnosis (FedDGFD)
-
-### Semisupervised domain generalization (SemiDGFD)
-
-### Open set domain generalization-based fault diagnosis (OSDGFD)
-
-## Imbalanced domain generalization-based fault diagnosis (IDGFD)
-
--None
-
-## Single domain generalization-based fault diagnosis (SDGFD)
-
-
-
-- 2023-MST-[Fine-grained transfer learning based on deep feature decomposition for rotating equipment fault diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/acc04a/meta)
 
 - 2023-MSSP-[Few-shot learning under domain shift: Attentional contrastive calibrated transformer of time series for fault diagnosis under sharp speed variation](https://www.sciencedirect.com/science/article/abs/pii/S0888327022011396)
 
@@ -109,18 +91,19 @@ diagnosis under different working conditions](https://ieeexplore.ieee.org/docume
 
 - 2020-IEEE Access-[Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions](https://ieeexplore.ieee.org/document/9093130)
 
-## Federated domain generalization-based fault diagnosis (FedDGFD)
+
+
+### Federated domain generalization-based fault diagnosis (FedDGFD)
+> Class space between mutiple source domains and unseen target domain is same.
 
 - 2023-IJMLC-[Federated domain generalization for intelligent fault diagnosis based on pseudo‑siamese network and robust global model aggregation](https://link.springer.com/article/10.1007/s13042-023-01934-2)
 
 - 2023-MST-[Federated Domain Generalization With Global Robust Model Aggregation Strategy For Bearing Fault Diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/ace841/meta)
 
-- 2023-TII-[Federated Domain Generalization: A Secure and
-Robust Framework for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10196327)
+- 2023-TII-[Federated Domain Generalization: A Secure and Robust Framework for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10196327)
 
-- 2022-KBS-[Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy]( https://www.sciencedirect.com/science/article/pii/S095070512200973X)
-
-## Semisupervised domain generalization (SemiDGFD)
+### Semisupervised domain generalization (SemiDGFD)
+> Class space between mutiple source domains and unseen target domain is same.
 
 - 2023-EAAI-[Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)
 
@@ -132,15 +115,18 @@ Robust Framework for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/ab
 
 - 2020-TIM-[Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed](https://ieeexplore.ieee.org/document/9088148)
 
-## Open set domain generalization-based fault diagnosis (OSDGFD)
+### Open set domain generalization-based fault diagnosis (OSDGFD)
+> Class space between mutiple source domains and unseen target domain is same.
 
 - 2022-RESS-[Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions]( https://www.sciencedirect.com/science/article/pii/S0951832022003064)
 
-## Imbalanced domain generalization-based fault diagnosis (IDGFD)
 
+## Imbalanced domain generalization-based fault diagnosis (IDGFD)
+> Class space between mutiple source domains and unseen target domain is same.
 -None
 
 ## Single domain generalization-based fault diagnosis (SDGFD)
+> Class space between mutiple source domains and unseen target domain is same.
 
 - 2022-TII-[Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/document/9774938)
 
