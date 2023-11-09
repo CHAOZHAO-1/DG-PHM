@@ -25,9 +25,24 @@ We hope this repository can benefit your research.
 - VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions [[TIM 2023](https://ieeexplore.ieee.org/abstract/document/10216370)]
 
 - Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023004301)]
+- A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions[[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023003770)]
+- Fine-grained transfer learning based on deep feature decomposition for rotating equipment fault diagnosis [[MST 2023](https://iopscience.iop.org/article/10.1088/1361-6501/acc04a/meta)]
 
 
-- 2023-RESS-[A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions](https://www.sciencedirect.com/science/article/pii/S0951832023003770)
+
+### Federated domain generalization-based fault diagnosis (FedDGFD)
+
+### Semisupervised domain generalization (SemiDGFD)
+
+### Open set domain generalization-based fault diagnosis (OSDGFD)
+
+## Imbalanced domain generalization-based fault diagnosis (IDGFD)
+
+-None
+
+## Single domain generalization-based fault diagnosis (SDGFD)
+
+
 
 - 2023-MST-[Fine-grained transfer learning based on deep feature decomposition for rotating equipment fault diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/acc04a/meta)
 
