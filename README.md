@@ -23,12 +23,8 @@ We hope this repository can benefit your research.
 > Class space between mutiple source domains and unseen target domain is same.
 > 
 - VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions [[TIM 2023](https://ieeexplore.ieee.org/abstract/document/10216370)]
+- Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023004301)]
 
-## Homogeneous domain generalization-based fault diagnosis (HDGFD)
-
-- 2023-TIM-[VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions](https://ieeexplore.ieee.org/abstract/document/10216370)
-
-- 2023-RESS-[Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0951832023004301)
 
 - 2023-RESS-[A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions](https://www.sciencedirect.com/science/article/pii/S0951832023003770)
 
