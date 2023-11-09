@@ -115,19 +115,23 @@ diagnosis under different working conditions](https://ieeexplore.ieee.org/docume
 
 - 2020-TIM-[Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed](https://ieeexplore.ieee.org/document/9088148)
 
+
 ### Open set domain generalization-based fault diagnosis (OSDGFD)
 > Class space between mutiple source domains and unseen target domain is same.
 
-- 2022-RESS-[Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions]( https://www.sciencedirect.com/science/article/pii/S0951832022003064)
+
+- Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions [[RESS 2022](https://www.sciencedirect.com/science/article/pii/S0951832022003064)]
 
 
 ## Imbalanced domain generalization-based fault diagnosis (IDGFD)
 > Class space between mutiple source domains and unseen target domain is same.
--None
+
+- Our work will be online soon.
 
 ## Single domain generalization-based fault diagnosis (SDGFD)
 > Class space between mutiple source domains and unseen target domain is same.
 
-- 2022-TII-[Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/document/9774938)
+- Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)]
+
 
 
