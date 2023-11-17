@@ -137,5 +137,54 @@ We hope this repository can benefit your research.
 
 - Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)]
 
+# Code
+> We XXXXX
+
+## Eight open-source dataset
+- An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
+1.1 IMS dataset
+
+data link: https://www.nasa.gov/intelligent-systems-division
+
+1.2 JNU dataset
+
+data link: Data will be released if the review is accepted.
+
+1.3 CWRU dataset
+
+data link: https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website
+
+1.4 PU dataset
+
+data link: https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/
+
+1.5 SCP dataset
+
+data link: Data will be released if the review is accepted.
+
+1.6 XJTU dataset
+
+data link:http://biaowang.tech/xjtu-sy-bearing-datasets/
+
+1.7 PHM09 dataset
+
+data link: Data will be released if the review is accepted.
+
+1.8 LW dataset
+
+Source paper:SuperGraph: Spatial-temporal graph-based feature extraction for rotating machinery diagnosis
+
+data link:https://github.com/ChaoyingYang/SuperGraph
+
+## Two self-collected dataset
+
+2.1 HUSTbearing dataset
+
+data link: Data will be released if the review is accepted.
+
+2.2 HUSTgearbox dataset
+
+data link: Data will be released if the review is accepted.
+  
 
 
