@@ -137,14 +137,12 @@ We hope this repository can benefit your research.
 
 - Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)]
 
-# Code
+# Data
 > We XXXXX
 
 ## Eight open-source dataset
-- An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
-1.1 IMS dataset
 
-data link: https://www.nasa.gov/intelligent-systems-division
+- XXX [[IMS dataset](ttps://ieeexplore.ieee.org/document/10152676)]
 
 1.2 JNU dataset
 
