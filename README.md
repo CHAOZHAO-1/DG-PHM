@@ -9,8 +9,8 @@ We hope this repository can benefit your research.
 # Contents
 - [Papers](#papers)
 -   - [Survey](#survey)
--   - [Regular paper](#regular paper)
-    
+-   - [Regular paper](#survey)
+-   -   - [Regular paper](#survey) 
 - [Data](#data)
 
 - [Code](#code)
