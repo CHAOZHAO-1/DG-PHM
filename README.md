@@ -10,9 +10,13 @@ We hope this repository can benefit your research.
 - [Papers](#papers)
 -   - [Survey](#survey)
 -   - [Regular paper](#survey)
+
 -   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
-          [Homogeneous domain generalization-based fault diagnosis](#survey)
-          
+-   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
+-   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
+-   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
+-   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
+        -        
 - [Data](#data)
 
 - [Code](#code)
