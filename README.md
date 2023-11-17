@@ -12,11 +12,12 @@ We hope this repository can benefit your research.
 -   - [Regular paper](#survey)
 
 -   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
--   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
--   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
--   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
--   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
-        -        
+-   -   - [Federated domain generalization-based fault diagnosis](#survey)
+-   -   - [Semisupervised domain generalization-based fault diagnosis](#survey)
+-   -   - [Open set domain generalization-based fault diagnosis](#survey)
+-   -   - [Imbalanced domain generalization-based fault diagnosis](#survey)
+-   -   - [Single domain generalization-based fault diagnosis](#survey)
+  
 - [Data](#data)
 
 - [Code](#code)
@@ -107,7 +108,7 @@ We hope this repository can benefit your research.
 - Federated Domain Generalization: A Secure and Robust Framework for Intelligent Fault Diagnosis [[TII 2023]( https://ieeexplore.ieee.org/abstract/document/10196327)]
 
 
-### Semisupervised domain generalization (SemiDGFD)
+### Semisupervised domain generalization-based fault diagnosis (SemiDGFD)
 > One source domain are labeled and other source domains are unlabeled.
 
 - Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis [[EAAI 2023]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)]
