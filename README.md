@@ -158,16 +158,12 @@ We hope this repository can benefit your research.
 
 1.8 LW dataset.[[data link](https://github.com/ChaoyingYang/SuperGraph)]
 
-
 ## Two self-collected dataset
 
-2.1 HUSTbearing dataset
+2.1 HUSTbearing dataset. data link: Data will be released if the review is accepted.
 
-data link: Data will be released if the review is accepted.
-
-2.2 HUSTgearbox dataset
-
-data link: Data will be released if the review is accepted.
+2.2 HUSTgearbox dataset. data link: Data will be released if the review is accepted.
   
+# Code
 
-
+> Code will be released if the review is accepted.
