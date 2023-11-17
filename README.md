@@ -105,16 +105,15 @@ diagnosis under different working conditions](https://ieeexplore.ieee.org/docume
 ### Semisupervised domain generalization (SemiDGFD)
 > Class space between mutiple source domains and unseen target domain is same.
 
-- 2023-EAAI-[Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)
+- Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis [[EAAI 2023]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)]
 
-- 2023-MSSP-[Domain fuzzy generalization networks for semi-supervised intelligent fault diagnosis under unseen working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327023004879)
+- Domain fuzzy generalization networks for semi-supervised intelligent fault diagnosis under unseen working conditions [[MSSP 2023]( https://www.sciencedirect.com/science/article/pii/S0888327023004879)]
 
-- 2023-MSSP-[Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327022011426)
+- Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions [[MSSP 2023](https://www.sciencedirect.com/science/article/pii/S0888327022011426)]
 
-- 2023-TIM-[A New Adversarial Domain Generalization Network Based on Class Boundary Feature Detection for Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/9745907)
+- A New Adversarial Domain Generalization Network Based on Class Boundary Feature Detection for Bearing Fault Diagnosis [[TIM 2023](https://ieeexplore.ieee.org/document/9745907)]
 
-- 2020-TIM-[Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed](https://ieeexplore.ieee.org/document/9088148)
-
+- Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed [[TIM 2020](https://ieeexplore.ieee.org/document/9088148)]
 
 ### Open set domain generalization-based fault diagnosis (OSDGFD)
 > Class space between mutiple source domains and unseen target domain is same.
