@@ -9,12 +9,13 @@ We hope this repository can benefit your research.
 # Contents
 - [Papers](#papers)
 -   - [Survey](#survey)
--   - [Regular](#survey)
+-   - [Regular paper](#regular paper)
+    
 - [Data](#data)
 
 - [Code](#code)
 
-- 
+
 # Papers
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences. 
 
