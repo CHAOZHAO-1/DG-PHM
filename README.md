@@ -10,7 +10,9 @@ We hope this repository can benefit your research.
 - [Papers](#papers)
 -   - [Survey](#survey)
 -   - [Regular](#survey)
+- [Data](#data)
 
+- 
 # Papers
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences. 
 
@@ -27,36 +29,25 @@ We hope this repository can benefit your research.
 - A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023003770)]
 - Fine-grained transfer learning based on deep feature decomposition for rotating equipment fault diagnosis [[MST 2023](https://iopscience.iop.org/article/10.1088/1361-6501/acc04a/meta)]
 
+- Few-shot learning under domain shift: Attentional contrastive calibrated transformer of time series for fault diagnosis under sharp speed variation [[MSSP 2023](https://www.sciencedirect.com/science/article/abs/pii/S0888327022011396)]
 
+- An information-induced fault diagnosis framework generalizing from stationary to unknown nonstationary working conditions [[RESS 2023](https://ieeexplore.ieee.org/abstract/document/10121353)]
 
-- 2023-MSSP-[Few-shot learning under domain shift: Attentional contrastive calibrated transformer of time series for fault diagnosis under sharp speed variation](https://www.sciencedirect.com/science/article/abs/pii/S0888327022011396)
+- Adaptive Class Center Generalization Network: A Sparse Domain-Regressive Framework for Bearing Fault Diagnosis Under Unknown Working Conditions [[TIM 2023](https://ieeexplore.ieee.org/abstract/document/10121353)]
 
-- 2023-RESS-[An information-induced fault diagnosis framework generalizing from stationary to unknown nonstationary working conditions](https://www.sciencedirect.com/science/article/abs/pii/S0951832023002946)
-  
-- 2023-TIM-[Adaptive Class Center Generalization Network: A Sparse Domain-Regressive Framework for Bearing Fault Diagnosis Under Unknown Working Conditions](https://ieeexplore.ieee.org/abstract/document/10121353)
+- Relationship transfer domain generalization network for rotating machinery fault diagnosis under different working conditions [[TII 2023](https://ieeexplore.ieee.org/document/10018483)]
 
-- 2023-TII-[Relationship transfer domain generalization network for rotating machinery fault diagnosis under different working conditions](https://ieeexplore.ieee.org/document/10018483)
+- Meta-Learning Based Domain Generalization Framework for Fault Diagnosis with Gradient Aligning and Semantic Matching [[TII 2023](https://ieeexplore.ieee.org/document/10091197)]
 
-- 2023-TII-[Meta-Learning Based Domain Generalization Framework for Fault Diagnosis with Gradient Aligning and Semantic Matching](https://ieeexplore.ieee.org/document/10091197)
+- TinyML-enabled edge implementation of transfer learning framework for domain generalization in machine fault diagnosis [[ESWA 2023](https://www.sciencedirect.com/science/article/pii/S0957417422020346)]
 
-- 2023-ESA-[TinyML-enabled edge implementation of transfer learning framework for domain generalization in machine fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0957417422020346)
+- Deep causal factorization network: A novel domain generalization method for cross-machine bearing fault diagnosis [[MSSP 2023](https://www.sciencedirect.com/science/article/abs/pii/S0888327023001358)]
 
-- 2023-MSSP-[Deep causal factorization network: A novel domain generalization method for cross-machine bearing fault diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0888327023001358)
+- Domain augmentation generalization network for real-time fault diagnosis under unseen working conditions [[RESS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0951832023001035)]
 
-- 2023-RESS-[Domain augmentation generalization network for real-time fault diagnosis under unseen working conditions](https://www.sciencedirect.com/science/article/abs/pii/S0951832023001035)
+- Deep mixed domain generalization network for intelligent fault diagnosis under unseen conditions [[TIE 2023](https://ieeexplore.ieee.org/document/10047970)]
 
-- 2023-TIE-[Deep mixed domain generalization network for intelligent fault diagnosis under unseen conditions](https://ieeexplore.ieee.org/document/10047970)
-
-- 2023-RESS-[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://www.sciencedirect.com/science/article/pii/S0951832023000868)
-
-
-
-
-
-
-
-
-
+- Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023000868)]
 
 - A reliable feature-assisted contrastive generalization net for intelligent fault diagnosis under unseen machines and working conditions [[MSSP 2022](https://www.sciencedirect.com/science/article/pii/S0888327022010792)]
 
