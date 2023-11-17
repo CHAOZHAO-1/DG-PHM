@@ -142,35 +142,22 @@ We hope this repository can benefit your research.
 
 ## Eight open-source dataset
 
-IMS dataset. [[data link](https://ieeexplore.ieee.org/document/10152676)]
+1.1 IMS dataset. [[data link](https://www.nasa.gov/intelligent-systems-division)]
 
-data link: Data will be released if the review is accepted.
+1.2 JNU dataset. data link: Data will be released if the review is accepted.
 
-1.3 CWRU dataset
+1.3 CWRU dataset.[[data link](https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)]
 
-data link: https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website
+1.4 PU dataset.[[data link](https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/)]
 
-1.4 PU dataset
+1.5 SCP dataset. data link: Data will be released if the review is accepted.
 
-data link: https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/
+1.6 XJTU dataset.[[data link](http://biaowang.tech/xjtu-sy-bearing-datasets/)]
 
-1.5 SCP dataset
+1.7 PHM09 dataset.data link: Data will be released if the review is accepted.
 
-data link: Data will be released if the review is accepted.
+1.8 LW dataset.[[data link](https://github.com/ChaoyingYang/SuperGraph)]
 
-1.6 XJTU dataset
-
-data link:http://biaowang.tech/xjtu-sy-bearing-datasets/
-
-1.7 PHM09 dataset
-
-data link: Data will be released if the review is accepted.
-
-1.8 LW dataset
-
-Source paper:SuperGraph: Spatial-temporal graph-based feature extraction for rotating machinery diagnosis
-
-data link:https://github.com/ChaoyingYang/SuperGraph
 
 ## Two self-collected dataset
 
