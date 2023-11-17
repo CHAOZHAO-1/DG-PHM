@@ -35,8 +35,7 @@ We hope this repository can benefit your research.
   
 - 2023-TIM-[Adaptive Class Center Generalization Network: A Sparse Domain-Regressive Framework for Bearing Fault Diagnosis Under Unknown Working Conditions](https://ieeexplore.ieee.org/abstract/document/10121353)
 
-- 2023-TII-[Relationship transfer domain generalization network for rotating machinery fault
-diagnosis under different working conditions](https://ieeexplore.ieee.org/document/10018483)
+- 2023-TII-[Relationship transfer domain generalization network for rotating machinery fault diagnosis under different working conditions](https://ieeexplore.ieee.org/document/10018483)
 
 - 2023-TII-[Meta-Learning Based Domain Generalization Framework for Fault Diagnosis with Gradient Aligning and Semantic Matching](https://ieeexplore.ieee.org/document/10091197)
 
@@ -51,27 +50,31 @@ diagnosis under different working conditions](https://ieeexplore.ieee.org/docume
 - 2023-RESS-[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://www.sciencedirect.com/science/article/pii/S0951832023000868)
 
 
-- 2023-MSSP-[A reliable feature-assisted contrastive generalization net for intelligent fault diagnosis under unseen machines and working conditions]( https://www.sciencedirect.com/science/article/pii/S0888327022010792)
-
-- 2022-TII-[Domain Transferability-based Deep Domain Generalization Method Towards Actual Fault Diagnosis Scenarios](https://ieeexplore.ieee.org/document/9905947)
-
-- 2022-MSSP-[A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis]( https://www.sciencedirect.com/science/article/pii/S0888327022001686)
-
-- 2022-algorithms-[Domain Generalization Model of Deep Convolutional Networks Based on SAND-Mask](https://www.mdpi.com/1999-4893/15/6/215)
-
-- 2022-TIM-[Generalization on Unseen Domains via Model-Agnostic Learning for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/document/9715108)
-
-- 2022-TIM-[Fault Diagnosis of Rotating Machinery Under Multiple Operating Conditions Generalization: A Representation Gradient Muting Paradigm](https://ieeexplore.ieee.org/document/9915363)
-
-- 2022-TIM-[Conditional Contrastive Domain Generalization for Fault Diagnosis](https://ieeexplore.ieee.org/document/9721021) [[Code](https://github.com/mohamedr002/CCDG)]
-
-- 2022-TCYB-[Sparsity-Constrained Invariant Risk Minimization for Domain Generalization With Application to Machinery Fault Diagnosis Modeling](https://ieeexplore.ieee.org/document/9976035)
-
-- 2022-Measurement-[NTScatNet: An interpretable convolutional neural network for domain generalization diagnosis across different transmission paths]( https://www.sciencedirect.com/science/article/pii/S0263224122012374)
 
 
 
 
+
+
+
+
+- A reliable feature-assisted contrastive generalization net for intelligent fault diagnosis under unseen machines and working conditions [[MSSP 2022](https://www.sciencedirect.com/science/article/pii/S0888327022010792)]
+
+- Domain Transferability-based Deep Domain Generalization Method Towards Actual Fault Diagnosis Scenarios [[TII 2022](https://ieeexplore.ieee.org/document/9905947)]
+
+- A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis [[MSSP 2022](https://www.sciencedirect.com/science/article/pii/S0888327022001686)]
+
+- Domain Generalization Model of Deep Convolutional Networks Based on SAND-Mask [[algorithms 2022](https://www.mdpi.com/1999-4893/15/6/215)]
+
+- Generalization on Unseen Domains via Model-Agnostic Learning for Intelligent Fault Diagnosis [[TIM 2022](https://ieeexplore.ieee.org/document/9715108)]
+
+- Fault Diagnosis of Rotating Machinery Under Multiple Operating Conditions Generalization: A Representation Gradient Muting Paradigm [[TIM 2022](https://ieeexplore.ieee.org/document/9915363)]
+  
+- Conditional Contrastive Domain Generalization for Fault Diagnosis [[TIM 2022](https://ieeexplore.ieee.org/document/9721021)][[Code](https://github.com/mohamedr002/CCDG)]
+
+- Sparsity-Constrained Invariant Risk Minimization for Domain Generalization With Application to Machinery Fault Diagnosis Modeling [[TCYB 2022](https://ieeexplore.ieee.org/document/9976035)]
+
+- NTScatNet: An interpretable convolutional neural network for domain generalization diagnosis across different transmission paths [[Measurement 2022](https://www.sciencedirect.com/science/article/pii/S0263224122012374)]
 
 - A Hybrid Matching Network for Fault Diagnosis under Different Working Conditions with Limited Data [[Computational Intelligence and Neuroscience 2022](https://www.hindawi.com/journals/cin/2022/3024590/)]
 
