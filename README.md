@@ -21,6 +21,7 @@ We hope this repository can benefit your research.
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
 > Class space between mutiple source domains and unseen target domain is same.
+> 
 - VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions [[TIM 2023](https://ieeexplore.ieee.org/abstract/document/10216370)]
 - Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023004301)]
 - A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023003770)]
@@ -96,11 +97,12 @@ diagnosis under different working conditions](https://ieeexplore.ieee.org/docume
 ### Federated domain generalization-based fault diagnosis (FedDGFD)
 > Class space between mutiple source domains and unseen target domain is same.
 
-- 2023-IJMLC-[Federated domain generalization for intelligent fault diagnosis based on pseudo‑siamese network and robust global model aggregation](https://link.springer.com/article/10.1007/s13042-023-01934-2)
+- Federated domain generalization for intelligent fault diagnosis based on pseudo‑siamese network and robust global model aggregation [[IJMLC 2023](https://link.springer.com/article/10.1007/s13042-023-01934-2)]
 
-- 2023-MST-[Federated Domain Generalization With Global Robust Model Aggregation Strategy For Bearing Fault Diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/ace841/meta)
+- Federated Domain Generalization With Global Robust Model Aggregation Strategy For Bearing Fault Diagnosis [[MST 2023](https://iopscience.iop.org/article/10.1088/1361-6501/ace841/meta)]
 
-- 2023-TII-[Federated Domain Generalization: A Secure and Robust Framework for Intelligent Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10196327)
+- Federated Domain Generalization: A Secure and Robust Framework for Intelligent Fault Diagnosis [[TII 2023]( https://ieeexplore.ieee.org/abstract/document/10196327)]
+
 
 ### Semisupervised domain generalization (SemiDGFD)
 > Class space between mutiple source domains and unseen target domain is same.
