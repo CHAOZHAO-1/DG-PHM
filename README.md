@@ -69,30 +69,29 @@ diagnosis under different working conditions](https://ieeexplore.ieee.org/docume
 
 - 2022-Measurement-[NTScatNet: An interpretable convolutional neural network for domain generalization diagnosis across different transmission paths]( https://www.sciencedirect.com/science/article/pii/S0263224122012374)
 
-- 2022-Computational Intelligence and Neuroscience-[A Hybrid Matching Network for Fault Diagnosis under Different Working Conditions with Limited Data]( https://www.hindawi.com/journals/cin/2022/3024590/)
-
-- 2021-TIM-[Deep Domain Generalization Combining APriori Diagnosis Knowledge Toward Cross-Domain Fault Diagnosis of Rolling Bearing](https://ieeexplore.ieee.org/document/9174912)
-
-- 2021-TIM-[Conditional Adversarial Domain Generalization With a Single Discriminator for Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/9399341)
-
-- 2021-TNNLS-[Whitening-Net: A Generalized Network to Diagnose the Faults Among Different Machines and Conditions](https://ieeexplore.ieee.org/document/9411732)
-
-- 2021-TNNLS-[Causal Disentanglement: A Generalized Bearing Fault Diagnostic Framework in Continuous Degradation Mode](https://ieeexplore.ieee.org/document/9664454)
 
 
-- 2021-TIM-[A hybrid generalization network for intelligent fault diagnosis of rotating machinery under unseen working conditions](https://ieeexplore.ieee.org/document/9452118)
 
-- 2021-TII-[Adversarial domain-invariant generalization: a generic domain-regressive framework for bearing fault diagnosis under unseen conditions](https://ieeexplore.ieee.org/document/9428592)
+- A Hybrid Matching Network for Fault Diagnosis under Different Working Conditions with Limited Data [[Computational Intelligence and Neuroscience 2022](https://www.hindawi.com/journals/cin/2022/3024590/)]
+
+- Deep Domain Generalization Combining APriori Diagnosis Knowledge Toward Cross-Domain Fault Diagnosis of Rolling Bearing [[TIM 2021](https://ieeexplore.ieee.org/document/9174912)]
+
+- Conditional Adversarial Domain Generalization With a Single Discriminator for Bearing Fault Diagnosis [[TIM 2021](https://ieeexplore.ieee.org/document/9399341)]
+
+- Whitening-Net: A Generalized Network to Diagnose the Faults Among Different Machines and Conditions [[TNNLS 2021](https://ieeexplore.ieee.org/document/9411732)]
+
+- Causal Disentanglement: A Generalized Bearing Fault Diagnostic Framework in Continuous Degradation Mode [[TNNLS 2021](https://ieeexplore.ieee.org/document/9664454)]
+
+- A hybrid generalization network for intelligent fault diagnosis of rotating machinery under unseen working conditions [[TIM 2021](https://ieeexplore.ieee.org/document/9452118)]
+
+- Adversarial domain-invariant generalization: a generic domain-regressive framework for bearing fault diagnosis under unseen conditions [[TII 2021](https://ieeexplore.ieee.org/document/9428592)]
 
 
-- 2020-TIE-[Intelligent Fault Identification Based on MultiSource Domain Generalization Towards Actual Diagnosis Scenario](https://ieeexplore.ieee.org/document/8643085)
+- Intelligent Fault Identification Based on MultiSource Domain Generalization Towards Actual Diagnosis Scenario [[TIE 2020](https://ieeexplore.ieee.org/document/8643085)]
 
+- Domain generalization in rotating machinery fault diagnostics using deep neural networks [[Neurocomputing 2020](https://www.sciencedirect.com/science/article/pii/S0925231220308092)]
 
-- 2020-Neurocomputing-[Domain generalization in rotating machinery fault diagnostics using deep neural networks]( https://www.sciencedirect.com/science/article/pii/S0925231220308092)
-
-- 2020-IEEE Access-[Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions](https://ieeexplore.ieee.org/document/9093130)
-
-
+- Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions [[IEEE Access 2020](https://ieeexplore.ieee.org/document/9093130)]
 
 ### Federated domain generalization-based fault diagnosis (FedDGFD)
 > Class space between mutiple source domains and unseen target domain is same.
