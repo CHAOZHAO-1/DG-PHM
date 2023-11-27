@@ -130,7 +130,7 @@ We hope this repository can benefit your research.
 ## Imbalanced domain generalization-based fault diagnosis (IDGFD)
 > sample number in source domains are different.
 
-- Our work will be online soon.
+- Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)]
 
 ## Single domain generalization-based fault diagnosis (SDGFD)
 > source samples are only from a single domain.
