@@ -1,5 +1,7 @@
 # Domain-generalization-for-PHM-Fault-diagnosis-and-prognosis
 
+（Updated as of 1 January 2024）
+
 This is a repository that includes papers and code about **Domain Generalization for PHM**, including papers, code, etc. 
 
 We will continue to update this repository.
