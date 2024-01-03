@@ -147,6 +147,8 @@ We hope this repository can benefit your research.
 
 # Data
 > There are eighet open-source dataset and two self-collected dataset for research of domain generalization-based fault diagnosis.
+> `The remaining data will be released after the paper is accepted`
+
 
 | Index 	| Year 	| Dataset Name 	| Component 	| Generation                   	| Working Condition           	| Original data link 	| Alternate data Link 	|
 |-------	|------	|--------------	|-----------	|------------------------------	|-----------------------------	|--------------------	|---------------------	|
