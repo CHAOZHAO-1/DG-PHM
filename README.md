@@ -173,6 +173,17 @@ We hope this repository can benefit your research.
 # Domain generalization-based fault prognosis
 
 
+- Domain generalization via adversarial out-domain augmentation for remaining useful life prediction ofbearings under unseen conditions [[KBS 2023](https://www.sciencedirect.com/science/article/pii/S0950705122012953?casa_token=KeaYUYWrSOEAAAAA:sTbCUiXyakT3vc_gPsb3CDjS6hMhjL2dtQPf4UTZURoxtdHkuWl6uJ4tVqEKbVPClfEq9c2n)]
+
+- Towards prognostic generalization: a domain conditional invariance and specificity disentanglement network for remaining useful life prediction [[JMS 2023]( https://link.springer.com/article/10.1007/s10845-023-02215-z)]
+  
+- Multi-source domain generalization for degradation monitoring of journal bearings under unseen conditions [[RESS 2022]( Multi-source domain generalization for degradation monitoring of journal bearings under unseen conditions)]
+
+- Meta domain generalization for smart manufacturing: Tool wear prediction with small data [[JMS 2022]( https://www.sciencedirect.com/science/article/pii/S0278612521002582?casa_token=OXSZPT33GkoAAAAA:M0JFmcB7vITOe80UnmE_jxlMKWGnQOnoq5TGamDxJORjh77NHL-31cl-_LJ7MGmmLcwY-2N9)]
+  
+- Health Assessment of Rotating Equipment With Unseen Conditions Using Adversarial Domain Generalization Toward Self-Supervised Regularization Learning [[IEEE/ASME MEC 2022]( https://ieeexplore.ieee.org/abstract/document/9759507?casa_token=-aIFB7D8tfwAAAAA:jejqlSpb1dvVY_YIL62zBkjBNGZQ8Qoz-PTpYiZyxlYFsKuqETU10mRNR4H4vwsumM-fh-I)]
+
+
 # Related projects
 
 
