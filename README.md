@@ -185,6 +185,18 @@ We hope this repository can benefit your research.
 | 9     	| 2022 	| HUSTbearing  	| bearing   	| artifical                    	| Multiple working conditions 	|              	|
 | 10    	| 2022 	| HUSTgearbox  	| bearing   	| artifical                    	| Multiple working conditions 	|              	|
 
+| Index 	| Year 	| Dataset Name 	| Component 	| Generation                   	| Working Condition           	| Original data link 	| Alternate data Link 	|
+|-------	|------	|--------------	|-----------	|------------------------------	|-----------------------------	|--------------------	|---------------------	|
+| 1     	| 2006 	| IMS          	| bearing   	| Run to failure               	| Single working condition    	|                    	|                     	|
+| 2     	| 2013 	| JNU          	| bearing   	| artifical                    	| Multiple working conditions 	|                    	|                     	|
+| 3     	| 2015 	| CWRU         	| bearing   	| artifical                    	| Multiple working conditions 	|                    	|                     	|
+| 4     	| 2016 	| PU           	| bearing   	| artifical and run to failure 	| Multiple working conditions 	|                    	|                     	|
+| 5     	| 2016 	| SCP          	| bearing   	| artifical                    	| Single working condition    	|                    	|                     	|
+| 6     	| 2018 	| XJTU         	| bearing   	| Run to failure               	| Multiple working conditions 	|                    	|                     	|
+| 7     	| 2018 	| PHM09        	| gearbox   	| artifical                    	| Multiple working conditions 	|                    	|                     	|
+| 8     	| 2021 	| LW           	| bearing   	| artifical                    	| Multiple working conditions 	|     [[data link](https://github.com/ChaoyingYang/SuperGraph)]               	|                     	|
+| 9     	| 2022 	| HUSTbearing  	| bearing   	| artifical                    	| Multiple working conditions 	|                    	|                     	|
+| 10    	| 2022 	| HUSTgearbox  	| bearing   	| artifical                    	| Multiple working conditions 	|                    	|                     	|
 
 # Code
 
