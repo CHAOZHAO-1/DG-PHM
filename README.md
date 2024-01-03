@@ -9,7 +9,7 @@ We will continue to update this repository.
 We hope this repository can benefit your research.
 
 # Contents
-- [Papers](#papers)
+- [Papers for fault diagnosis](#papers)
 -   - [Survey](#survey)
 -   - [Regular paper](#survey)
 
@@ -23,6 +23,8 @@ We hope this repository can benefit your research.
 - [Data](#data)
 
 - [Code](#code)
+
+- [Papers for prognosis](#papers)
 
 
 # Papers
