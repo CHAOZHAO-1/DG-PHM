@@ -186,7 +186,7 @@ We hope this repository can benefit your research.
 
 # Related projects
 
-- We collate all open source mechanical failure datasets [[data link](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)]
+- We collate all open source mechanical failure datasets [[Link](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)]
   
-- We have sorted out the molti-modal-based fault diagnosis, including data, papers, codes and so on [[data link](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)]
+- We have sorted out the molti-modal-based fault diagnosis, including data, papers, codes and so on [[Link](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)]
 
