@@ -1,6 +1,6 @@
-# Domain-generalization-for-PHM-Fault-diagnosis-and-prognosis
+# Domain-generalization-for-PHM (fault-diagnosis-and-prognosis) 领域泛化方法用于故障诊断和预测
 
-（Updated as of 1 January 2024）
+（Updated as of 3 January 2024）
 
 This is a repository that includes papers and code about **Domain Generalization for PHM**, including papers, code, etc. 
 
@@ -26,11 +26,12 @@ We hope this repository can benefit your research.
 
 - [Papers for prognosis](#papers)
 
-
+- [Related project](#papers)
+- 
 # Papers
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences. 
 
-## Survey
+## Survey （综述）
 - An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
 
 
