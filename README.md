@@ -161,7 +161,7 @@ We hope this repository can benefit your research.
 | 7     	| 2018 	| PHM09        	| gearbox   	| artifical                    	| Multiple working conditions 	|                    	|                     	|
 | 8     	| 2021 	| LW           	| bearing   	| artifical                    	| Multiple working conditions 	|[[data link](https://github.com/ChaoyingYang/SuperGraph)]               	|                     	|
 | 9     	| 2022 	| HUSTbearing  	| bearing   	| artifical                    	| Multiple working conditions 	|                    	|                     	|
-| 10    	| 2022 	| HUSTgearbox  	| bearing   	| artifical                    	| Multiple working conditions 	|                    	|                     	|
+| 10    	| 2022 	| HUSTgearbox  	| gearbox    	| artifical                    	| Multiple working conditions 	|                    	|                     	|
 
 # Code
 
