@@ -27,7 +27,7 @@ We hope this repository can benefit your research.
 - [Papers for prognosis](#papers)
 
 - [Related project](#papers)
-- 
+
 # Papers
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences. 
 
@@ -169,3 +169,10 @@ We hope this repository can benefit your research.
 # Code
 
 > Code will be released if the review is accepted.
+
+# Domain generalization-based fault prognosis
+
+
+# Related projects
+
+
