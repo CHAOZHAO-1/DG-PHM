@@ -2,16 +2,14 @@
 
 （Updated as of 27 January 2024）
 
-This is a repository that includes papers and code about **Domain Generalization for PHM**, including papers, code, etc. 
+This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
-We will continue to update this repository.
-
-We hope this repository can benefit your research.
+We will continue to update this repository and hope this repository can benefit your research.
 
 # Contents
 - [Papers for fault diagnosis](#papers)
--   - [Survey](#survey)
--   - [Regular paper](#survey)
+-   - [Survey](#papers)
+-   - [Regular paper](#papers)
 
 -   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
 -   -   - [Federated domain generalization-based fault diagnosis](#survey)
