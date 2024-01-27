@@ -1,6 +1,6 @@
 # Domain-generalization-for-PHM (fault-diagnosis-and-prognosis) 领域泛化方法用于故障诊断和预测
 
-（Updated as of 3 January 2024）
+（Updated as of 27 January 2024）
 
 This is a repository that includes papers and code about **Domain Generalization for PHM**, including papers, code, etc. 
 
@@ -34,7 +34,7 @@ We hope this repository can benefit your research.
 ## Survey （综述）
 
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)]
-- 
+
 - An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
 
 
@@ -42,7 +42,16 @@ We hope this repository can benefit your research.
 
 > Class space between mutiple source domains and unseen target domain is same.
 > 
+- Support-Sample-Assisted Domain Generalization via Attacks and Defenses: Concepts, Algorithms, and Applications to Pipeline Fault Diagnosis [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10384769?casa_token=dVxouWGvpSYAAAAA:PfiXfJAyfigutyUOLfRvn_OHFO_9YL8IOEl3Kd_rHodFFSEbfYJ4h9PGh5vYKBw0JkceMfw)]
+
+- Stacked maximum independence autoencoders: A domain generalization approach for fault diagnosis under various working conditions [[MSSP 2024](https://www.sciencedirect.com/science/article/pii/S0888327023009433?casa_token=TPEkc-h1NxcAAAAA:CTnDvBy8VIOO-06cMg3z698bU0LvCCJx8H0OVGL1Qn55a8LbepeEsBso8A_VSF9CpoMXkF4f)]
+
+- Causal explaining guided domain generalization for rotating machinery intelligent fault diagnosis [[ESA 2024](https://www.sciencedirect.com/science/article/pii/S0957417423033080?casa_token=jGBA5IXkaBoAAAAA:6cbWsTf0o2mSPLJN7QruV5wO8fzPGvuJWypOcgn1v9zEOEFqqhNraUmWm3TF8O5BkaVLnaX2)]
+
+- Task-Generalization-Based Graph Convolutional Network for Fault Diagnosis of Rod-Fastened Rotor System [[TII 2023](https://ieeexplore.ieee.org/abstract/document/10309830?casa_token=fG_kV9wKc4gAAAAA:rZIOZtNq7dMN_bd9U6w7SAWfSEc34tCuYtoVw_CkzsdqEm46XOSZadthe4CbIpjymucxx-w)]
+
 - VIT-GADG: A Generative Domain - Generalized Framework for Chillers Fault Diagnosis under Unseen Working Conditions [[TIM 2023](https://ieeexplore.ieee.org/abstract/document/10216370)]
+
 - Gradient aligned domain generalization with a mutual teaching teacher-student network for intelligent fault diagnosis [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023004301)]
 - A novel domain generalization network with multidomain specific auxiliary classifiers for machinery fault diagnosis under unseen working conditions [[RESS 2023](https://www.sciencedirect.com/science/article/pii/S0951832023003770)]
 - Fine-grained transfer learning based on deep feature decomposition for rotating equipment fault diagnosis [[MST 2023](https://iopscience.iop.org/article/10.1088/1361-6501/acc04a/meta)]
