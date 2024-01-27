@@ -32,6 +32,9 @@ We hope this repository can benefit your research.
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences. 
 
 ## Survey （综述）
+
+- Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)]
+- 
 - An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
 
 
