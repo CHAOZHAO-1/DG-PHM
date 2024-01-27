@@ -1,4 +1,4 @@
-# Domain-generalization-for-PHM (fault-diagnosis-and-prognosis) 领域泛化方法用于故障诊断和预测
+# Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
 （Updated as of 27 January 2024）
 
