@@ -216,14 +216,14 @@ We hope this repository can benefit your research.
   
 - We have sorted out the molti-modal-based fault diagnosis, including data, papers, codes and so on [[Link](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)]
 
-## BibTex Citation
+# BibTex Citation
 
 If you find this paper and repository useful, please cite our paper☺️.
 
 ```
 @article{Zhao2024domain,
   title={Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study},
-  author={Zhao Chao, Enrico Zio and Shen Weiming},
+  author={Zhao, Chao and Zio, Enrico and Shen, Weiming},
   journal={Reliability Engineering & System Safety},
   pages={109964},
   year={2024}
