@@ -215,7 +215,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Contact
 
-If you have any problem, please free to contact me.
+If you have any problem, please feel free to contact me.
 
 Name: Chao Zhao
 
