@@ -39,7 +39,7 @@ We will continue to update this repository and hope this repository can benefit 
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
 > Class space between mutiple source domains and unseen target domain is same.
-> 
+
 
 
 - Stacked maximum independence autoencoders: A domain generalization approach for fault diagnosis under various working conditions [[MSSP 2024](https://www.sciencedirect.com/science/article/pii/S0888327023009433?casa_token=TPEkc-h1NxcAAAAA:CTnDvBy8VIOO-06cMg3z698bU0LvCCJx8H0OVGL1Qn55a8LbepeEsBso8A_VSF9CpoMXkF4f)]
@@ -114,7 +114,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions [[IEEE Access 2020](https://ieeexplore.ieee.org/document/9093130)]
 
 ### Federated domain generalization-based fault diagnosis (FedDGFD)
-> data are stored in different clients.
+> Data are stored in different clients.
 
 - A federated distillation domain generalization framework for machinery fault diagnosis with data privacy [[EAAI 2024](https://www.sciencedirect.com/science/article/pii/S0952197623019498?casa_token=tI8xLle0uTAAAAAA:G8yUEWhMpz25pJg57bcCgcSk96pKBzrqEyqpkOM_71cPJgeV4HszpOuAASSqHxuB8POGv__p)]
   
@@ -191,7 +191,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Code
 
-> Code will be released if the review is accepted.
+> We wll release our code as soon as possible.
 
 # Domain generalization-based fault prognosis
 
@@ -224,8 +224,15 @@ If you find this paper and repository useful, please cite our paper☺️.
   journal={Reliability Engineering & System Safety},
   pages={109964},
   year={2024}
-}
 
-```
+# Contact
+
+If you have any problem, please free to contact me.
+
+Name: Chao Zhao
+
+Email address: zhaochao734@hust.edu.cn
+
+
 
 
