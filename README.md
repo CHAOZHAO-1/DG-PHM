@@ -114,7 +114,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions [[IEEE Access 2020](https://ieeexplore.ieee.org/document/9093130)]
 
 ### Federated domain generalization-based fault diagnosis (FedDGFD)
-> Data are stored in different clients.
+> Data are stored in different local clients.
 
 - A federated distillation domain generalization framework for machinery fault diagnosis with data privacy [[EAAI 2024](https://www.sciencedirect.com/science/article/pii/S0952197623019498?casa_token=tI8xLle0uTAAAAAA:G8yUEWhMpz25pJg57bcCgcSk96pKBzrqEyqpkOM_71cPJgeV4HszpOuAASSqHxuB8POGv__p)]
   
@@ -143,7 +143,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed [[TIM 2020](https://ieeexplore.ieee.org/document/9088148)]
 
 ### Open set domain generalization-based fault diagnosis (OSDGFD)
-> Class space of source domains is a subset of that of the unseen target domain.
+> Class space among multiple source domains and unseen target domain is different.
 
 - A Novel Multidomain Contrastive-Coding-Based Open-Set Domain Generalization Framework for Machinery Fault Diagnosis [[TII 2023](https://ieeexplore.ieee.org/abstract/document/10382502?casa_token=FxKIZnqwoqgAAAAA:vvJI3TjUhHtASvVmDjK8jIGhvt0j7RO1wy0uL-kmiFSapnJOEkcm8YZJA3UpeZsnpUAeAhE)]
 
@@ -154,7 +154,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 ## Imbalanced domain generalization-based fault diagnosis (IDGFD)
-> sample number in source domains are different.
+> Sample number for differnt class in source domains are different.
 
 - Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)]
 
@@ -173,7 +173,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Data
 > There are eighet open-source dataset and two self-collected dataset for research of domain generalization-based fault diagnosis.
-> `The remaining data will be released after the paper is accepted`
+
 
 
 | Index 	| Year 	| Dataset Name 	| Component 	| Generation                   	| Working Condition           	| Original data link 	| Alternate data Link 	|
