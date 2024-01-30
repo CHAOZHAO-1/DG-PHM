@@ -213,6 +213,15 @@ We will continue to update this repository and hope this repository can benefit 
   
 - We have sorted out the molti-modal-based fault diagnosis, including data, papers, codes and so on [[Link](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)]
 
+# Contact
+
+If you have any problem, please free to contact me.
+
+Name: Chao Zhao
+
+Email address: zhaochao734@hust.edu.cn
+
+
 # BibTex Citation
 
 If you find this paper and repository useful, please cite our paper☺️.
@@ -224,17 +233,10 @@ If you find this paper and repository useful, please cite our paper☺️.
   journal={Reliability Engineering & System Safety},
   pages={109964},
   year={2024}
-
 }
 
 
-# Contact
 
-If you have any problem, please free to contact me.
-
-Name: Chao Zhao
-
-Email address: zhaochao734@hust.edu.cn
 
 
 
