@@ -191,7 +191,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Code
 
-> Our code is related at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]   
+> Our code is released at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]   
 
 # Domain generalization-based fault prognosis
 
