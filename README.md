@@ -27,7 +27,7 @@ We will continue to update this repository and hope this repository can benefit 
 - [Related project](#papers)
 
 # Papers
-> We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences. 
+> We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year. 
 
 ## Survey （综述）
 
@@ -38,7 +38,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 
-> Class space between mutiple source domains and unseen target domain is same.
+> Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 
 
@@ -114,7 +114,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions [[IEEE Access 2020](https://ieeexplore.ieee.org/document/9093130)]
 
 ### Federated domain generalization-based fault diagnosis (FedDGFD)
-> Data are stored in different local clients.
+> Multi-souce data are stored in different local clients.
 
 - A federated distillation domain generalization framework for machinery fault diagnosis with data privacy [[EAAI 2024](https://www.sciencedirect.com/science/article/pii/S0952197623019498?casa_token=tI8xLle0uTAAAAAA:G8yUEWhMpz25pJg57bcCgcSk96pKBzrqEyqpkOM_71cPJgeV4HszpOuAASSqHxuB8POGv__p)]
   
@@ -154,7 +154,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 ## Imbalanced domain generalization-based fault diagnosis (IDGFD)
-> Sample number for differnt class in source domains are different.
+> Sample number for differnt classes in source domains are different.
 
 - Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)]
 
