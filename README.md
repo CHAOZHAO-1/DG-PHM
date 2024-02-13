@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-（Updated as of 27 January 2024）
+（Updated as of 13 February 2024）
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -116,6 +116,11 @@ We will continue to update this repository and hope this repository can benefit 
 ### Federated domain generalization-based fault diagnosis (FedDGFD)
 > Multi-souce data are stored in different local clients.
 
+
+
+
+- Fusing consensus knowledge: A federated learning method for fault diagnosis via privacy-preserving reference under domain shift [[IF 2024](https://www.sciencedirect.com/science/article/pii/S156625352400068X)]
+
 - A federated distillation domain generalization framework for machinery fault diagnosis with data privacy [[EAAI 2024](https://www.sciencedirect.com/science/article/pii/S0952197623019498?casa_token=tI8xLle0uTAAAAAA:G8yUEWhMpz25pJg57bcCgcSk96pKBzrqEyqpkOM_71cPJgeV4HszpOuAASSqHxuB8POGv__p)]
   
 
@@ -160,6 +165,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 ## Single domain generalization-based fault diagnosis (SDGFD)
 > source samples are only from a single domain.
+
+- HmmSeNet: A Novel Single Domain Generalization Equipment Fault Diagnosis Under Unknown Working Speed Using Histogram Matching Mixup[[TII 2024](https://ieeexplore.ieee.org/abstract/document/10417861/)]
+
 
 - Support-Sample-Assisted Domain Generalization via Attacks and Defenses: Concepts, Algorithms, and Applications to Pipeline Fault Diagnosis [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10384769?casa_token=dVxouWGvpSYAAAAA:PfiXfJAyfigutyUOLfRvn_OHFO_9YL8IOEl3Kd_rHodFFSEbfYJ4h9PGh5vYKBw0JkceMfw)]
 
