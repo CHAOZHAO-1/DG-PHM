@@ -8,37 +8,37 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Contents
 - [Papers for fault diagnosis](#section-id1)
--   - [Survey](#papers)
--   - [Regular paper](#papers)
+-   - [Survey](#section-id2)
+-   - [Regular paper](#section-id3)
 
--   -   - [Homogeneous domain generalization-based fault diagnosis](#survey)
--   -   - [Federated domain generalization-based fault diagnosis](#survey)
--   -   - [Semisupervised domain generalization-based fault diagnosis](#survey)
--   -   - [Open set domain generalization-based fault diagnosis](#survey)
--   -   - [Imbalanced domain generalization-based fault diagnosis](#survey)
--   -   - [Single domain generalization-based fault diagnosis](#survey)
+-   -   - [Homogeneous domain generalization-based fault diagnosis](#section-id3)
+-   -   - [Federated domain generalization-based fault diagnosis](#section-id4)
+-   -   - [Semisupervised domain generalization-based fault diagnosis](#section-id5)
+-   -   - [Open set domain generalization-based fault diagnosis](#section-id6)
+-   -   - [Imbalanced domain generalization-based fault diagnosis](#section-id7)
+-   -   - [Single domain generalization-based fault diagnosis](#section-id8)
   
-- [Data](#data)
+- [Data](#section-id9)
 
-- [Code](#code)
+- [Code](#section-id10)
 
-- [Papers for prognosis](#papers)
+- [Papers for prognosis](#section-id11)
 
-- [Related project](#papers)
+- [Related project](#section-id12)
 
 # Papers
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year.
 <a name="section-id1"></a>
 
 ## Survey （综述）
-
+<a name="section-id2"></a>
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)]
 
 - An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
 
 
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
-
+<a name="section-id3"></a>
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 
@@ -116,7 +116,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### Federated domain generalization-based fault diagnosis (FedDGFD)
 > Multi-souce data are stored in different local clients.
-
+<a name="section-id4"></a>
 
 
 
@@ -137,6 +137,7 @@ We will continue to update this repository and hope this repository can benefit 
   
 ### Semisupervised domain generalization-based fault diagnosis (SemiDGFD)
 > One source domain are labeled and other source domains are unlabeled.
+<a name="section-id5"></a>
 
 - Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis [[EAAI 2023]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)]
 
@@ -150,6 +151,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### Open set domain generalization-based fault diagnosis (OSDGFD)
 > Class space among multiple source domains and unseen target domain is different.
+<a name="section-id6"></a>
 
 - A Novel Multidomain Contrastive-Coding-Based Open-Set Domain Generalization Framework for Machinery Fault Diagnosis [[TII 2023](https://ieeexplore.ieee.org/abstract/document/10382502?casa_token=FxKIZnqwoqgAAAAA:vvJI3TjUhHtASvVmDjK8jIGhvt0j7RO1wy0uL-kmiFSapnJOEkcm8YZJA3UpeZsnpUAeAhE)]
 
@@ -161,11 +163,13 @@ We will continue to update this repository and hope this repository can benefit 
 
 ## Imbalanced domain generalization-based fault diagnosis (IDGFD)
 > Sample number for differnt classes in source domains are different.
+<a name="section-id7"></a>
 
 - Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)]
 
 ## Single domain generalization-based fault diagnosis (SDGFD)
 > source samples are only from a single domain.
+<a name="section-id8"></a>
 
 - HmmSeNet: A Novel Single Domain Generalization Equipment Fault Diagnosis Under Unknown Working Speed Using Histogram Matching Mixup[[TII 2024](https://ieeexplore.ieee.org/abstract/document/10417861/)]
 
@@ -182,7 +186,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Data
 > There are eighet open-source dataset and two self-collected dataset for research of domain generalization-based fault diagnosis.
-
+<a name="section-id9"></a>
 
 
 | Index 	| Year 	| Dataset Name 	| Component 	| Generation                   	| Working Condition           	| Original data link 	| Alternate data Link 	|
@@ -201,9 +205,10 @@ We will continue to update this repository and hope this repository can benefit 
 # Code
 
 > Our code is released at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]   
+<a name="section-id10"></a>
 
 # Domain generalization-based fault prognosis
-
+<a name="section-id11"></a>
 
 - An Optimal-Subdomain Generalization Method for Remaining Useful Life Prediction of Machinery Under Time-Varying Operation Conditions [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10376342)]
 
@@ -243,7 +248,7 @@ If you find this paper and repository useful, please cite our paper☺️.
 }
 ```
 # Related projects
-
+<a name="section-id12"></a>
 - We collect all open source mechanical failure datasets [[Link](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)]
   
 - We have sorted out the multi-modal-based fault diagnosis, including data, papers, codes and so on [[Link](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)]
