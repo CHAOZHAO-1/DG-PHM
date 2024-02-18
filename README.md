@@ -7,7 +7,7 @@ This is a repository about **Domain Generalization for PHM**, including papers, 
 We will continue to update this repository and hope this repository can benefit your research.
 
 # Contents
-- [Papers for fault diagnosis](#papers)
+- [Papers for fault diagnosis](#section-id1)
 -   - [Survey](#papers)
 -   - [Regular paper](#papers)
 
@@ -27,7 +27,8 @@ We will continue to update this repository and hope this repository can benefit 
 - [Related project](#papers)
 
 # Papers
-> We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year. 
+> We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year.
+<a name="section-id1"></a>
 
 ## Survey （综述）
 
