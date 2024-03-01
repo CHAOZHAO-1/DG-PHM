@@ -218,6 +218,9 @@ We will continue to update this repository and hope this repository can benefit 
 # Domain generalization-based fault prognosis
 <a name="section-id11"></a>
 
+
+- Uncertainty-Weighted Domain Generalization for Remaining Useful Life Prediction of Rolling Bearings under Unseen Conditions [[TEEE sensor 2024](https://ieeexplore.ieee.org/abstract/document/10444662)]
+
 - An Optimal-Subdomain Generalization Method for Remaining Useful Life Prediction of Machinery Under Time-Varying Operation Conditions [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10376342)]
 
 - Domain generalization via adversarial out-domain augmentation for remaining useful life prediction ofbearings under unseen conditions [[KBS 2023](https://www.sciencedirect.com/science/article/pii/S0950705122012953?casa_token=KeaYUYWrSOEAAAAA:sTbCUiXyakT3vc_gPsb3CDjS6hMhjL2dtQPf4UTZURoxtdHkuWl6uJ4tVqEKbVPClfEq9c2n)]
