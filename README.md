@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-（Updated as of 13 February 2024）
+（Updated as of 1 March 2024）
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
