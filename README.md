@@ -20,7 +20,9 @@ We will continue to update this repository and hope this repository can benefit 
   
 - [Data](#section-id9)
 
-- [Code](#section-id10)
+- [Code for benchmark](#section-id10)
+
+- [Code for Method paper](#section-id13)
 
 - [Papers for prognosis](#section-id11)
 
