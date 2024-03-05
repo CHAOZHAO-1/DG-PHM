@@ -219,7 +219,7 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id11"></a>
 
 
-- Uncertainty-Weighted Domain Generalization for Remaining Useful Life Prediction of Rolling Bearings under Unseen Conditions [[TEEE Sensors 2024](https://ieeexplore.ieee.org/abstract/document/10444662)]
+- Uncertainty-Weighted Domain Generalization for Remaining Useful Life Prediction of Rolling Bearings under Unseen Conditions [[IEEE Sensors 2024](https://ieeexplore.ieee.org/abstract/document/10444662)]
 
 - An Optimal-Subdomain Generalization Method for Remaining Useful Life Prediction of Machinery Under Time-Varying Operation Conditions [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10376342)]
 
