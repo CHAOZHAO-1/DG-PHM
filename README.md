@@ -223,7 +223,7 @@ We will continue to update this repository and hope this repository can benefit 
 |  Title  |   Journal  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/hq-deng/RD4AD.svg?style=social&label=Star) <br> [**Conditional Contrastive Domain Generalization For Fault Diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TIM | 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
-|/| / | / | [Github]/ | / |
+|![Star](https://github.com/mohamedr002/CCDG/tree/main.svg?style=social&label=Star) <br> [**Conditional Contrastive Domain Generalization For Fault Diagnosis**| / | / | [Github]/ | / |
 
 
 # Domain Generalization-based Fault Prognosis
