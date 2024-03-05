@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-（Updated as of 1 March 2024）
+（Updated as of 5 March 2024）
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -225,17 +225,11 @@ We will continue to update this repository and hope this repository can benefit 
 |[**Conditional Contrastive Domain Generalization For Fault Diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TIM | 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
 |[**A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis**](https://www.sciencedirect.com/science/article/pii/S0888327022001686) <br> | MSSP| 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
 |[**Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator**](https://ieeexplore.ieee.org/abstract/document/9399341/) <br> | TIM| 2022 | [Github](https://github.com/hectorLop/Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator) | DGFD |
-
 |[**A federated distillation domain generalization framework for machinery fault diagnosis with data privacy**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | EAAI | 2024 | [Github](https://github.com/mohamedr002/CCDG) | FedDGFD |
-
 |[**Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | AEI | 2024 | [Github](https://github.com/mohamedr002/CCDG) | IDGFD |
-
 |[**Federated domain generalization: A secure and robust framework for intelligent fault diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TII | 2023 | [Github](https://github.com/mohamedr002/CCDG) | FedDGFD |
-
 |[**Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TII | 2023 | [Github](https://github.com/mohamedr002/CCDG) | SemiDGFD |
-
 |[**Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | RESS | 2022 | [Github](https://github.com/mohamedr002/CCDG) | OSDGFD |
-
 |[**Adversarial mutual information-guided single domain generalization network for intelligent fault diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TII | 2022 | [Github](https://github.com/mohamedr002/CCDG) | SDGFD |
 
 
