@@ -7,26 +7,26 @@ This is a repository about **Domain Generalization for PHM**, including papers, 
 We will continue to update this repository and hope this repository can benefit your research.
 
 # Contents
-- [Papers for fault diagnosis](#section-id1)
+- [Papers for Fault Diagnosis](#section-id1)
 -   - [Survey](#section-id2)
--   - [Regular paper](#section-id3)
+-   - [Regular Paper](#section-id3)
 
--   -   - [Homogeneous domain generalization-based fault diagnosis](#section-id3)
--   -   - [Federated domain generalization-based fault diagnosis](#section-id4)
--   -   - [Semisupervised domain generalization-based fault diagnosis](#section-id5)
--   -   - [Open set domain generalization-based fault diagnosis](#section-id6)
--   -   - [Imbalanced domain generalization-based fault diagnosis](#section-id7)
--   -   - [Single domain generalization-based fault diagnosis](#section-id8)
+-   -   - [Homogeneous Domain Generalization-based Fault Diagnosis](#section-id3)
+-   -   - [Federated Domain Generalization-based Fault Diagnosis](#section-id4)
+-   -   - [Semisupervised Domain Generalization-based Fault Diagnosis](#section-id5)
+-   -   - [Open Set Domain Generalization-based Fault Diagnosis](#section-id6)
+-   -   - [Imbalanced Domain Generalization-based Fault Diagnosis](#section-id7)
+-   -   - [Single Domain Generalization-based Fault Diagnosis](#section-id8)
   
 - [Data](#section-id9)
 
-- [Code for benchmark](#section-id10)
+- [Code for Benchmark](#section-id10)
 
-- [Code for Method paper](#section-id13)
+- [Code for Method Paper](#section-id13)
 
-- [Papers for prognosis](#section-id11)
+- [Papers for Prognosis](#section-id11)
 
-- [Related project](#section-id12)
+- [Related Project](#section-id12)
 
 # Papers
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year.
@@ -124,7 +124,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions [[IEEE Access 2020](https://ieeexplore.ieee.org/document/9093130)]
 
-### Federated domain generalization-based fault diagnosis (FedDGFD)
+### Federated Domain Generalization-based Fault Diagnosis (FedDGFD)
 > Multi-souce data are stored in different local clients.
 <a name="section-id4"></a>
 
@@ -145,7 +145,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy [[KBS 2023](https://www.sciencedirect.com/science/article/pii/S095070512200973X?casa_token=cIa6MEtheM4AAAAA:MPW_GJCNCNQOuFuwA_3Gv8UvXt_PQaG6q7n6E1DijbTWQBwzf5Uk_JfEFduaIokD1sj3o4AJ)]
 
   
-### Semisupervised domain generalization-based fault diagnosis (SemiDGFD)
+### Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)
 > One source domain are labeled and other source domains are unlabeled.
 <a name="section-id5"></a>
 
@@ -159,7 +159,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed [[TIM 2020](https://ieeexplore.ieee.org/document/9088148)]
 
-### Open set domain generalization-based fault diagnosis (OSDGFD)
+### Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)
 > Class space among multiple source domains and unseen target domain is different.
 <a name="section-id6"></a>
 
@@ -171,13 +171,13 @@ We will continue to update this repository and hope this repository can benefit 
 - Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions [[RESS 2022](https://ieeexplore.ieee.org/abstract/document/10214410?casa_token=GWKheX--CFQAAAAA:5n_rqYpoPNHdBYoSqSJJRrTiMf2jyMyO1syc5kEauCASvk9OaUXbNILADKzb-LeFuOTKidk)]
 
 
-## Imbalanced domain generalization-based fault diagnosis (IDGFD)
+## Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)
 > Sample number for differnt classes in source domains are different.
 <a name="section-id7"></a>
 
 - Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)]
 
-## Single domain generalization-based fault diagnosis (SDGFD)
+## Single Domain Generalization-based Fault Diagnosis (SDGFD)
 > source samples are only from a single domain.
 <a name="section-id8"></a>
 
@@ -226,7 +226,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 
-# Domain generalization-based fault prognosis
+# Domain Generalization-based Fault Prognosis
 <a name="section-id11"></a>
 
 
@@ -269,7 +269,7 @@ If you find this paper and repository useful, please cite our paper☺️.
   year={2024}
 }
 ```
-# Related projects
+# Related Projects
 <a name="section-id12"></a>
 - We collect all open source mechanical failure datasets [[Link](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)]
   
