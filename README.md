@@ -7,9 +7,9 @@ This is a repository about **Domain Generalization for PHM**, including papers, 
 We will continue to update this repository and hope this repository can benefit your research.
 
 # Contents
-- [Papers for Fault Diagnosis](#section-id1)
--   - [Survey](#section-id2)
--   - [Regular Paper](#section-id3)
+- [1.Papers for Fault Diagnosis](#section-id1)
+-   - [1.1Survey](#section-id2)
+-   - [1.2Regular Paper](#section-id3)
 
 -   -   - [Homogeneous Domain Generalization-based Fault Diagnosis](#section-id3)
 -   -   - [Federated Domain Generalization-based Fault Diagnosis](#section-id4)
@@ -18,15 +18,15 @@ We will continue to update this repository and hope this repository can benefit 
 -   -   - [Imbalanced Domain Generalization-based Fault Diagnosis](#section-id7)
 -   -   - [Single Domain Generalization-based Fault Diagnosis](#section-id8)
   
-- [Data](#section-id9)
+- [2.Data](#section-id9)
 
-- [Code for Benchmark](#section-id10)
+- [3.1.Code for Benchmark](#section-id10)
 
-- [Code for Method Paper](#section-id13)
+- [3.2.Code for Method Paper](#section-id13)
 
-- [Papers for Prognosis](#section-id11)
+- [4.Papers for Prognosis](#section-id11)
 
-- [Related Project](#section-id12)
+- [5.Related Project](#section-id12)
 
 # Papers
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year.
