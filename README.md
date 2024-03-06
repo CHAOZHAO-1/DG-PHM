@@ -219,8 +219,10 @@ We will continue to update this repository and hope this repository can benefit 
 # Code for Benchmark
 <a name="section-id10"></a>
 
-> Our benchmark code is released at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]
-> Another benchmark code is released at  [[Code link](https://github.com/ShaneSpace/DGFDBenchmark)]
+> Our benchmark code is released at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]  
+
+
+> Another benchmark code is released at  [[Code link](https://github.com/ShaneSpace/DGFDBenchmark)]  
 
 
 
