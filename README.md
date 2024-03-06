@@ -217,9 +217,12 @@ We will continue to update this repository and hope this repository can benefit 
 | 10    	| 2022 	| HUSTgearbox  	| gearbox    	| artifical                    	| Multiple working conditions 	|    /                	|         [[data link](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)]              	|
 
 # Code for Benchmark
-
-> Our benchmark code is released at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]   
 <a name="section-id10"></a>
+
+> Our benchmark code is released at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]
+> Another benchmark code is released at  [[Code link](https://github.com/ShaneSpace/DGFDBenchmark)]
+
+
 
 
 # Code for Method Paper
@@ -227,16 +230,6 @@ We will continue to update this repository and hope this repository can benefit 
 |  Title  |   Journal  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |[**Conditional Contrastive Domain Generalization For Fault Diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TIM | 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
-
-
-
-|[**Conditional Contrastive Domain Generalization For Fault Diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TIM | 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
-
-
-
-
-
-
 |[**A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis**](https://www.sciencedirect.com/science/article/pii/S0888327022001686) <br> | MSSP| 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
 |[**Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator**](https://ieeexplore.ieee.org/abstract/document/9399341/) <br> | TIM| 2022 | [Github](https://github.com/hectorLop/Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator) | DGFD |
 |[**A federated distillation domain generalization framework for machinery fault diagnosis with data privacy**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | EAAI | 2024 | [Github](https://github.com/mohamedr002/CCDG) | FedDGFD |
