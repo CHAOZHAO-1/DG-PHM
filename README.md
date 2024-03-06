@@ -44,6 +44,9 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 
+
+- Causal Disentanglement Domain Generalization for time-series signal fault diagnosis [[NN 2024](https://www.sciencedirect.com/science/article/pii/S0893608024000133)]
+
 - Industrial process fault diagnosis based on feature enhanced meta-learning toward domain generalization scenarios [[KBS 2024](https://www.sciencedirect.com/science/article/pii/S0950705124001412)]
 
 
@@ -224,6 +227,16 @@ We will continue to update this repository and hope this repository can benefit 
 |  Title  |   Journal  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |[**Conditional Contrastive Domain Generalization For Fault Diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TIM | 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
+
+
+
+|[**Conditional Contrastive Domain Generalization For Fault Diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TIM | 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
+
+
+
+
+
+
 |[**A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis**](https://www.sciencedirect.com/science/article/pii/S0888327022001686) <br> | MSSP| 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
 |[**Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator**](https://ieeexplore.ieee.org/abstract/document/9399341/) <br> | TIM| 2022 | [Github](https://github.com/hectorLop/Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator) | DGFD |
 |[**A federated distillation domain generalization framework for machinery fault diagnosis with data privacy**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | EAAI | 2024 | [Github](https://github.com/mohamedr002/CCDG) | FedDGFD |
