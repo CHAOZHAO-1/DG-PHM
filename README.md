@@ -255,6 +255,7 @@ We will continue to update this repository and hope this repository can benefit 
 # Domain Generalization-based Fault Prognosis
 <a name="section-id11"></a>
 
+- A Life-Stage Domain Aware Network for Bearing Health Prognosis Under Unseen Temporal Distribution Shift [[IM 2024](https://ieeexplore.ieee.org/abstract/document/10443638)]
 
 - Uncertainty-Weighted Domain Generalization for Remaining Useful Life Prediction of Rolling Bearings under Unseen Conditions [[IEEE Sensors 2024](https://ieeexplore.ieee.org/abstract/document/10444662)]
 
