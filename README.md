@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-（Updated as of 5 March 2024）
+（Updated as of 22 March 2024）
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -44,8 +44,15 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 
+- Zero-Shot Fault Diagnosis for Smart Process Manufacturing via Tensor Prototype Alignment [[TNNLS 2024](https://ieeexplore.ieee.org/document/10473210/)]
+
+- Decoupled interpretable robust domain generalization networks: A fault diagnosis approach across bearings, working conditions, and artificial-to-real scenarios [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624000934)]
+
+- Domain generalization of chemical process fault diagnosis by maximizing domain feature distribution alignment [[PROCESS SAF ENVIRON 2024](https://www.sciencedirect.com/science/article/pii/S095758202400288X)]
+
 
 - Causal Disentanglement Domain Generalization for time-series signal fault diagnosis [[NN 2024](https://www.sciencedirect.com/science/article/pii/S0893608024000133)]
+  
 
 - Industrial process fault diagnosis based on feature enhanced meta-learning toward domain generalization scenarios [[KBS 2024](https://www.sciencedirect.com/science/article/pii/S0950705124001412)]
 
@@ -164,6 +171,9 @@ We will continue to update this repository and hope this repository can benefit 
 ### Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)
 > Class space among multiple source domains and unseen target domain is different.
 <a name="section-id6"></a>
+
+
+- Curriculum learning-based domain generalization for cross-domain fault diagnosis with category shift [[MSSP 2024](https://www.sciencedirect.com/science/article/pii/S0888327024001936)]
 
 - A Novel Multidomain Contrastive-Coding-Based Open-Set Domain Generalization Framework for Machinery Fault Diagnosis [[TII 2023](https://ieeexplore.ieee.org/abstract/document/10382502?casa_token=FxKIZnqwoqgAAAAA:vvJI3TjUhHtASvVmDjK8jIGhvt0j7RO1wy0uL-kmiFSapnJOEkcm8YZJA3UpeZsnpUAeAhE)]
 
