@@ -182,14 +182,14 @@ We will continue to update this repository and hope this repository can benefit 
   
 - A Customized Meta-Learning Framework for Diagnosing New Faults From Unseen Working Conditions With Few Labeled Data [[IEEE/ASME MEC 2023](https://ieeexplore.ieee.org/abstract/document/10214410?casa_token=GWKheX--CFQAAAAA:5n_rqYpoPNHdBYoSqSJJRrTiMf2jyMyO1syc5kEauCASvk9OaUXbNILADKzb-LeFuOTKidk)]
 
-- Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions [[RESS 2022](https://ieeexplore.ieee.org/abstract/document/10214410?casa_token=GWKheX--CFQAAAAA:5n_rqYpoPNHdBYoSqSJJRrTiMf2jyMyO1syc5kEauCASvk9OaUXbNILADKzb-LeFuOTKidk)]
+- Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions [[RESS 2022](https://ieeexplore.ieee.org/abstract/document/10214410?casa_token=GWKheX--CFQAAAAA:5n_rqYpoPNHdBYoSqSJJRrTiMf2jyMyO1syc5kEauCASvk9OaUXbNILADKzb-LeFuOTKidk)][[Code](https://github.com/CHAOZHAO-1/AOSDGN)]
 
 
 ## Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)
 > Sample number for differnt classes in source domains are different.
 <a name="section-id7"></a>
 
-- Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)]
+- Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)][[Code](https://github.com/CHAOZHAO-1/SDAGN)]
 
 ## Single Domain Generalization-based Fault Diagnosis (SDGFD)
 > source samples are only from a single domain.
@@ -208,7 +208,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - An Adversarial Single-Domain Generalization Network for Fault Diagnosis of Wind Turbine Gearboxes [[J MAR SCI ENG 2023](https://www.mdpi.com/2077-1312/11/12/2384)]
 
-- Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)]
+- Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)][[Code](https://github.com/CHAOZHAO-1/AMINet)]
 
 # Data
 > There are eighet open-source dataset and two self-collected dataset for research of domain generalization-based fault diagnosis.
