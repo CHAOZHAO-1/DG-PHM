@@ -43,6 +43,16 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id3"></a>
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
+
+- Semi-physical simulation-driven contrastive decoupling net for intelligent fault diagnosis of unseen machines under varying speed [[MST 2024](https://iopscience.iop.org/article/10.1088/1361-6501/ad36da/meta?casa_token=fpUcJcdMhY4AAAAA:VLnI2OELiNGkjiI6OWNLYsh4lXXXyprA5uZp8QX1eCVq1IfUZLU-gBxkAFVZOXXZmEcPuL8Qa4Pl7ggvGJ5s3CeTmg)]
+
+
+- Dynamic Balanced Dual Prototypical Domain Generalization for Cross-Machine Fault Diagnosis [[TIM 2024](https://ieeexplore.ieee.org/abstract/document/10478588?casa_token=-G_y0OTBHNsAAAAA:0couiFmM9wFXOCrelYjrTp9gJmJbJAAlr8HwgbDQMq0AfFrdIvXe6MIdKXh1sR9RYK90XQg)]
+
+
+
+- Novel Adversarial Unsupervised Subdomain Adaption Multi-Channel Deep Convolutional Network for Cross-Operating Fault Diagnosis of Rolling Bearings [[IEEE ACCESS 2024](https://ieeexplore.ieee.org/abstract/document/10473058)]
+
 - PhysiCausalNet: A Causal- and Physics-Driven Domain Generalization Network for Cross-Machine Fault Diagnosis of Unseen Domain [[TII 2024](https://ieeexplore.ieee.org/document/10473208)]
 
 - Zero-Shot Fault Diagnosis for Smart Process Manufacturing via Tensor Prototype Alignment [[TNNLS 2024](https://ieeexplore.ieee.org/document/10473210/)]
