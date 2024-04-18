@@ -8,18 +8,13 @@ We will continue to update this repository and hope this repository can benefit 
 
 <div style="display: flex;">
     <img src="https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png" alt="Image 1" style="width: 50%;">
-    <img src="https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png" alt="Image 2" style="width: 50%;">
+    <img src="https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_distribution.png" alt="Image 2" style="width: 50%;">
 </div>
 
 
 
 <img src="https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png" alt="image" width="500" height="400">
 
-
-![image](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png)
-
-
-![image](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_distribution.png)
 
 
 # Contents
