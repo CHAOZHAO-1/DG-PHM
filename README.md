@@ -6,6 +6,8 @@ This is a repository about **Domain Generalization for PHM**, including papers, 
 
 We will continue to update this repository and hope this repository can benefit your research.
 
+<img src="[path/to/your/image.jpg](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png)" width="200" height="150">
+
 
 ![image](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png)
 
