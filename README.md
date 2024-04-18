@@ -44,6 +44,13 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 
+- Unknown working condition fault diagnosis of rotate machine without training sample based on local fault semantic attribute [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624001630)]
+
+- Stochastic Embedding Domain Generalization Network for Rotating Machinery Fault Diagnosis under Unseen Operating Conditions [[IEEE Sensors 2024](https://ieeexplore.ieee.org/abstract/document/10495760)]
+
+- Fault Diagnosis of Rotating Machinery Toward Unseen Working Condition: A Regularized Domain Adaptive Weight Optimization [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10495728)]
+
+
 - Semi-physical simulation-driven contrastive decoupling net for intelligent fault diagnosis of unseen machines under varying speed [[MST 2024](https://iopscience.iop.org/article/10.1088/1361-6501/ad36da/meta?casa_token=fpUcJcdMhY4AAAAA:VLnI2OELiNGkjiI6OWNLYsh4lXXXyprA5uZp8QX1eCVq1IfUZLU-gBxkAFVZOXXZmEcPuL8Qa4Pl7ggvGJ5s3CeTmg)]
 
 
@@ -170,6 +177,11 @@ We will continue to update this repository and hope this repository can benefit 
 > One source domain are labeled and other source domains are unlabeled.
 <a name="section-id5"></a>
 
+
+
+- Contrast-Assisted Domain-Specificity-Removal Network for Semi-Supervised Generalization Fault Diagnosis [[TNNLS 2024](https://ieeexplore.ieee.org/document/10495144)]
+
+
 - Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis [[EAAI 2023]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)]
 
 - Domain fuzzy generalization networks for semi-supervised intelligent fault diagnosis under unseen working conditions [[MSSP 2023]( https://www.sciencedirect.com/science/article/pii/S0888327023004879)]
@@ -179,6 +191,8 @@ We will continue to update this repository and hope this repository can benefit 
 - A New Adversarial Domain Generalization Network Based on Class Boundary Feature Detection for Bearing Fault Diagnosis [[TIM 2023](https://ieeexplore.ieee.org/document/9745907)]
 
 - Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed [[TIM 2020](https://ieeexplore.ieee.org/document/9088148)]
+
+
 
 ### Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)
 > Class space among multiple source domains and unseen target domain is different.
@@ -205,10 +219,11 @@ We will continue to update this repository and hope this repository can benefit 
 > source samples are only from a single domain.
 <a name="section-id8"></a>
 
+- DP2Net: A discontinuous physical property-constrained single-source domain generalization network for tool wear state recognition [[MSSP 2024](https://www.sciencedirect.com/science/article/pii/S0888327024003194)]
+
 - Gradient-based domain-augmented meta-learning single-domain generalization for fault diagnosis under variable operating conditions [[SHM 2024](https://journals.sagepub.com/doi/full/10.1177/14759217241230129)]
 
 - HmmSeNet: A Novel Single Domain Generalization Equipment Fault Diagnosis Under Unknown Working Speed Using Histogram Matching Mixup[[TII 2024](https://ieeexplore.ieee.org/abstract/document/10417861/)]
-
 
 - Support-Sample-Assisted Domain Generalization via Attacks and Defenses: Concepts, Algorithms, and Applications to Pipeline Fault Diagnosis [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10384769?casa_token=dVxouWGvpSYAAAAA:PfiXfJAyfigutyUOLfRvn_OHFO_9YL8IOEl3Kd_rHodFFSEbfYJ4h9PGh5vYKBw0JkceMfw)]
 
