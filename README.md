@@ -8,7 +8,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 <img src="[path/to/your/image.jpg](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png)" width="200" height="150">
 
-<img src="https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png" alt="image" width="200">
+<img src="https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png" alt="image" width="800" height="800">
 
 
 ![image](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png)
