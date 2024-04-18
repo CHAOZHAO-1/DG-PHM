@@ -15,12 +15,12 @@ We will continue to update this repository and hope this repository can benefit 
 -   - [1.1 Survey](#section-id2)
 -   - [1.2 Regular Paper](#section-id3)
 
--   -   - [1.2.1. Homogeneous Domain Generalization-based Fault Diagnosis](#section-id3)
--   -   - [1.2.2. Federated Domain Generalization-based Fault Diagnosis](#section-id4)
--   -   - [1.2.3. Semisupervised Domain Generalization-based Fault Diagnosis](#section-id5)
--   -   - [1.2.4. Open Set Domain Generalization-based Fault Diagnosis](#section-id6)
--   -   - [1.2.5. Imbalanced Domain Generalization-based Fault Diagnosis](#section-id7)
--   -   - [1.2.6. Single Domain Generalization-based Fault Diagnosis](#section-id8)
+-   -   - [1.2.1. Homogeneous Domain Generalization-based Fault Diagnosis (HDGFD)](#section-id3)
+-   -   - [1.2.2. Federated Domain Generalization-based Fault Diagnosis (FedDGFD)](#section-id4)
+-   -   - [1.2.3. Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)](#section-id5)
+-   -   - [1.2.4. Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)](#section-id6)
+-   -   - [1.2.5. Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)](#section-id7)
+-   -   - [1.2.6. Single Domain Generalization-based Fault Diagnosis (SDGFD)](#section-id8)
   
 - [2. Data](#section-id9)
 
