@@ -9,6 +9,9 @@ We will continue to update this repository and hope this repository can benefit 
 | ![Image 1](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png) | ![Image 2](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_distribution.png) |
 |:--:|:--:|
 
+| ![Image 1](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png) | ![Image 2](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_distribution.png) |
+|:--:|:--:|
+| *Image 1* | *Image 2* |
 
 
 # Contents
