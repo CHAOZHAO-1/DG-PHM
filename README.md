@@ -6,6 +6,13 @@ This is a repository about **Domain Generalization for PHM**, including papers, 
 
 We will continue to update this repository and hope this repository can benefit your research.
 
+
+![image](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_year.png)
+
+
+![image](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG/paper_distribution.png)
+
+
 # Contents
 - [1. Papers for Fault Diagnosis](#section-id1)
 -   - [1.1 Survey](#section-id2)
