@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-（Updated as of 18 April 2024）
+（Updated as of 30 April 2024）
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -21,6 +21,8 @@ We will continue to update this repository and hope this repository can benefit 
 -   -   - [1.2.4. Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)](#section-id6)
 -   -   - [1.2.5. Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)](#section-id7)
 -   -   - [1.2.6. Single Domain Generalization-based Fault Diagnosis (SDGFD)](#section-id8)
+-   -   - [1.2.7. Single Imbalanced Domain Generalization-based Fault Diagnosis (SIDGFD)](#section-id13)
+        - 
   
 - [2. Data](#section-id9)
 
@@ -47,6 +49,7 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id3"></a>
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
+- Novel Triplet Loss-Based Domain Generalization Network for Bearing Fault Diagnosis with Unseen Load Condition [[Process 2024](https://www.mdpi.com/2227-9717/12/5/882)]
 
 - Unknown working condition fault diagnosis of rotate machine without training sample based on local fault semantic attribute [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624001630)]
 
@@ -159,7 +162,7 @@ We will continue to update this repository and hope this repository can benefit 
 > Multi-souce data are stored in different local clients.
 <a name="section-id4"></a>
 
-
+- Decentralized federated domain generalization with cluster alignment for fault diagnosis [[Control Engineering Practice 2024](https://www.sciencedirect.com/science/article/pii/S0967066124001114?via%3Dihub)]
 
 - Fusing consensus knowledge: A federated learning method for fault diagnosis via privacy-preserving reference under domain shift [[IF 2024](https://www.sciencedirect.com/science/article/pii/S156625352400068X)]
 
@@ -238,6 +241,12 @@ We will continue to update this repository and hope this repository can benefit 
 - An Adversarial Single-Domain Generalization Network for Fault Diagnosis of Wind Turbine Gearboxes [[J MAR SCI ENG 2023](https://www.mdpi.com/2077-1312/11/12/2384)]
 
 - Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)][[Code](https://github.com/CHAOZHAO-1/AMINet)]
+
+## Single Imbalanced Domain Generalization-based Fault Diagnosis (SIDGFD)
+> source samples are only from a single imbalanced domain.
+<a name="section-id13"></a>
+
+- Single imbalanced domain generalization network for intelligent fault diagnosis of compressors in HVAC systems under unseen working conditions [[Energy & Buildings  2024](https://www.sciencedirect.com/science/article/pii/S0378778824003086?via%3Dihub)]
 
 # Data
 > There are eighet open-source dataset and two self-collected dataset for research of domain generalization-based fault diagnosis.
