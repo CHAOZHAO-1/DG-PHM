@@ -49,6 +49,21 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id3"></a>
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
+| Title | Journal/Conference | Year |
+| --- | --- | --- |
+| Novel Triplet Loss-Based Domain Generalization Network for Bearing Fault Diagnosis with Unseen Load Condition | [Process 2024](https://www.mdpi.com/2227-9717/12/5/882) | 2024 |
+| Unknown working condition fault diagnosis of rotate machine without training sample based on local fault semantic attribute | [AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624001630) | 2024 |
+| Stochastic Embedding Domain Generalization Network for Rotating Machinery Fault Diagnosis under Unseen Operating Conditions | [IEEE Sensors 2024](https://ieeexplore.ieee.org/abstract/document/10495760) | 2024 |
+| Fault Diagnosis of Rotating Machinery Toward Unseen Working Condition: A Regularized Domain Adaptive Weight Optimization | [TII 2024](https://ieeexplore.ieee.org/abstract/document/10495728) | 2024 |
+| Semi-physical simulation-driven contrastive decoupling net for intelligent fault diagnosis of unseen machines under varying speed | [MST 2024](https://iopscience.iop.org/article/10.1088/1361-6501/ad36da/meta?casa_token=fpUcJcdMhY4AAAAA:VLnI2OELiNGkjiI6OWNLYsh4lXXXyprA5uZp8QX1eCVq1IfUZLU-gBxkAFVZOXXZmEcPuL8Qa4Pl7ggvGJ5s3CeTmg) | 2024 |
+| Dynamic Balanced Dual Prototypical Domain Generalization for Cross-Machine Fault Diagnosis | [TIM 2024](https://ieeexplore.ieee.org/abstract/document/10478588?casa_token=-G_y0OTBHNsAAAAA:0couiFmM9wFXOCrelYjrTp9gJmJbJAAlr8HwgbDQMq0AfFrdIvXe6MIdKXh1sR9RYK90XQg) | 2024 |
+| Novel Adversarial Unsupervised Subdomain Adaption Multi-Channel Deep Convolutional Network for Cross-Operating Fault Diagnosis of Rolling Bearings | [IEEE ACCESS 2024](https://ieeexplore.ieee.org/abstract/document/10473058) | 2024 |
+| PhysiCausalNet: A Causal- and Physics-Driven Domain Generalization Network for Cross-Machine Fault Diagnosis of Unseen Domain | [TII 2024](https://ieeexplore.ieee.org/document/10473208) | 2024 |
+| Zero-Shot Fault Diagnosis for Smart Process Manufacturing via Tensor Prototype Alignment | [TNNLS 2024](https://ieeexplore.ieee.org/document/10473210/) | 2024 |
+| Decoupled interpretable robust domain generalization networks: A fault diagnosis approach across bearings, working conditions, and artificial-to-real scenarios | [AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624000934) | 2024 |
+| Domain generalization of chemical process fault diagnosis by maximizing domain feature distribution alignment | [PROCESS SAF ENVIRON 2024](https://www.sciencedirect.com/science/article/pii/S095758202400288X) | 2024 |
+
+
 - Novel Triplet Loss-Based Domain Generalization Network for Bearing Fault Diagnosis with Unseen Load Condition [[Process 2024](https://www.mdpi.com/2227-9717/12/5/882)]
 
 - Unknown working condition fault diagnosis of rotate machine without training sample based on local fault semantic attribute [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624001630)]
