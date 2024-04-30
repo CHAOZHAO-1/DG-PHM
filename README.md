@@ -249,7 +249,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Single imbalanced domain generalization network for intelligent fault diagnosis of compressors in HVAC systems under unseen working conditions [[Energy & Buildings  2024](https://www.sciencedirect.com/science/article/pii/S0378778824003086?via%3Dihub)]
 
 # Data
-> There are eighet open-source dataset and two self-collected dataset for research of domain generalization-based fault diagnosis.
+> There are eight open-source dataset and two self-collected dataset for research of domain generalization-based fault diagnosis.
 <a name="section-id9"></a>
 
 
