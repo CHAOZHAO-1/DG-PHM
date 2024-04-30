@@ -22,7 +22,7 @@ We will continue to update this repository and hope this repository can benefit 
 -   -   - [1.2.5. Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)](#section-id7)
 -   -   - [1.2.6. Single Domain Generalization-based Fault Diagnosis (SDGFD)](#section-id8)
 -   -   - [1.2.7. Single Imbalanced Domain Generalization-based Fault Diagnosis (SIDGFD)](#section-id13)
-        - 
+
   
 - [2. Data](#section-id9)
 
