@@ -340,7 +340,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Talk
 <a name="section-id14"></a>
-- [苏州大学沈长青教授：从域适应到域泛化：人工智能驱动的故障诊断模型探索(https://www.bilibili.com/video/BV1V34y1q758/?spm_id_from=333.337.search-card.all.click&vd_source=ec846a76720b6da306d5919873954ab5)]
+
+- [苏州大学沈长青教授：从域适应到域泛化：人工智能驱动的故障诊断模型探索](https://www.bilibili.com/video/BV1V34y1q758/?spm_id_from=333.337.search-card.all.click&vd_source=ec846a76720b6da306d5919873954ab5)
+
 
 # Domain Generalization-based Fault Prognosis
 
