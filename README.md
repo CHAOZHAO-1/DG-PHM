@@ -1,5 +1,9 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
+# My Awesome Project ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)
+
+
+
 （Updated as of 30 April 2024）
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
