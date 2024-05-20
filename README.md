@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# My Awesome Project ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)
 
 
 
