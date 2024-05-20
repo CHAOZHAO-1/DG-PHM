@@ -163,9 +163,11 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Whitening-Net: A Generalized Network to Diagnose the Faults Among Different Machines and Conditions [[TNNLS 2022](https://ieeexplore.ieee.org/document/9411732)]
 
-- Causal Disentanglement: A Generalized Bearing Fault Diagnostic Framework in Continuous Degradation Mode [[TNNLS 2021](https://ieeexplore.ieee.org/document/9664454)]
+
 
 ### 2021
+
+- Causal Disentanglement: A Generalized Bearing Fault Diagnostic Framework in Continuous Degradation Mode [[TNNLS 2021](https://ieeexplore.ieee.org/document/9664454)]
 
 - A hybrid generalization network for intelligent fault diagnosis of rotating machinery under unseen working conditions [[TIM 2021](https://ieeexplore.ieee.org/document/9452118)]
 
@@ -213,6 +215,8 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Contrast-Assisted Domain-Specificity-Removal Network for Semi-Supervised Generalization Fault Diagnosis [[TNNLS 2024](https://ieeexplore.ieee.org/document/10495144)]
 
+
+### 2023
 
 - Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis [[EAAI 2023]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)]
 
@@ -335,8 +339,8 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 # Talk
-
-- [[苏州大学沈长青教授：从域适应到域泛化：人工智能驱动的故障诊断模型探索](https://www.bilibili.com/video/BV1V34y1q758/?spm_id_from=333.337.search-card.all.click&vd_source=ec846a76720b6da306d5919873954ab5)]
+<a name="section-id14"></a>
+- [苏州大学沈长青教授：从域适应到域泛化：人工智能驱动的故障诊断模型探索(https://www.bilibili.com/video/BV1V34y1q758/?spm_id_from=333.337.search-card.all.click&vd_source=ec846a76720b6da306d5919873954ab5)]
 
 # Domain Generalization-based Fault Prognosis
 
