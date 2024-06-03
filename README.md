@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240520-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-100-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240603-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-97-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -49,16 +49,13 @@ We will continue to update this repository and hope this repository can benefit 
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] （第一篇关于DGFD的综述）
 
 
-### 2023
-
-- An Application-oriented Perspective of Domain Generalization for Cross-Domain Fault Diagnosis [[IEEE CSCWD 2023](https://ieeexplore.ieee.org/document/10152676)]
-
-
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 <a name="section-id3"></a>
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 ### 2024
+
+- Chemical fault diagnosis network based on single domain generalization [[PROCESS SAF ENVIRON 2024](https://www.sciencedirect.com/science/article/pii/S0957582024006268)]
 
 - Operating Condition Generalization Network for Fault Diagnosis of Brushless DC Motors [[TIE 2024](https://ieeexplore.ieee.org/abstract/document/10509661)]
 
@@ -340,6 +337,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Talk
 <a name="section-id14"></a>
+
 
 - [苏州大学沈长青教授：从域适应到域泛化：人工智能驱动的故障诊断模型探索](https://www.bilibili.com/video/BV1V34y1q758/?spm_id_from=333.337.search-card.all.click&vd_source=ec846a76720b6da306d5919873954ab5)
 
