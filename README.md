@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240603-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-97-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240617-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-100-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -54,6 +54,10 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 ### 2024
+
+- Single domain generalization method based on anti-causal learning for rotating machinery fault diagnosis [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S0951832024003247)]
+
+- Fault vibration model driven fault-aware domain generalization framework for bearing fault diagnosis [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624002684)]
 
 - Chemical fault diagnosis network based on single domain generalization [[PROCESS SAF ENVIRON 2024](https://www.sciencedirect.com/science/article/pii/S0957582024006268)]
 
