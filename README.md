@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240617-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-100-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240702-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-103-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -55,7 +55,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
-- Single domain generalization method based on anti-causal learning for rotating machinery fault diagnosis [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S0951832024003247)]
+- A novel causal feature learning-based domain generalization framework for bearing fault diagnosis with a mixture of data from multiple working conditions and machines [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624002702)]
+
+- Sharpness-Aware Gradient Alignment for Domain Generalization With Noisy Labels in Intelligent Fault Diagnosis [[TIM 2024](https://ieeexplore.ieee.org/abstract/document/10555403)]
 
 - Fault vibration model driven fault-aware domain generalization framework for bearing fault diagnosis [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624002684)]
 
@@ -188,6 +190,8 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
+- Heterogeneous Federated Domain Generalization Network With Common Representation Learning for Cross-Load Machinery Fault Diagnosis [[TSMC 2024](https://ieeexplore.ieee.org/abstract/document/10571357)]
+
 - Decentralized federated domain generalization with cluster alignment for fault diagnosis [[Control Engineering Practice 2024](https://www.sciencedirect.com/science/article/pii/S0967066124001114?via%3Dihub)]
 
 - Fusing consensus knowledge: A federated learning method for fault diagnosis via privacy-preserving reference under domain shift [[IF 2024](https://www.sciencedirect.com/science/article/pii/S156625352400068X)]
@@ -266,6 +270,8 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id8"></a>
 
 ### 2024
+
+- Single domain generalization method based on anti-causal learning for rotating machinery fault diagnosis [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S0951832024003247)]
 
 - DP2Net: A discontinuous physical property-constrained single-source domain generalization network for tool wear state recognition [[MSSP 2024](https://www.sciencedirect.com/science/article/pii/S0888327024003194)]
 
