@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240726-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-107-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240726-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-108-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -266,9 +266,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
-- Multi-domain Class-imbalance Generalization with Fault Relationship-induced Augmentation for Intelligent Fault Diagnosis [[TIM 2024](https://ieeexplore.ieee.org/document/10606303)
+- Multi-domain Class-imbalance Generalization with Fault Relationship-induced Augmentation for Intelligent Fault Diagnosis [[TIM 2024](https://ieeexplore.ieee.org/document/10606303)]
 
-- Long-tailed multi-domain generalization for fault diagnosis of rotating machinery under variable operating conditions [[SHM 2024](https://journals.sagepub.com/doi/10.1177/14759217241256690)
+- Long-tailed multi-domain generalization for fault diagnosis of rotating machinery under variable operating conditions [[SHM 2024](https://journals.sagepub.com/doi/10.1177/14759217241256690)]
 
 
 ### 2023
@@ -369,6 +369,8 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id11"></a>
 
 ### 2024
+
+- Remaining useful life prediction of machinery based on performanceevaluation and online cross-domain health indicator under unknownworking conditions [[JMS 2024](https://www.sciencedirect.com/science/article/pii/S0278612524001328?casa_token=RFcpI7YJdp4AAAAA:oom_6YMx4BUDEZeAon2wrLXhtEb2xQnwkCf2ErgrKpD5nY89_Zt6ASkfA8KGEu2jkPm4BvP95Blg)]
 
 - A Life-Stage Domain Aware Network for Bearing Health Prognosis Under Unseen Temporal Distribution Shift [[TIM 2024](https://ieeexplore.ieee.org/abstract/document/10443638)]
 
