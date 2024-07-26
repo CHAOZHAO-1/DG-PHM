@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240702-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-103-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240726-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-107-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -54,6 +54,8 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 ### 2024
+
+- Feature Adaptive Modulation and Prototype Learning for Domain Generalization Intelligent Fault Diagnosis [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10601528?casa_token=IIoGoHYjxtoAAAAA:goxoQguQmVXDeShmA3qeAvQus1xQ2UUOZGYfPOr5VKj4BXVHqpVmsFJjKPQSGy4UgdYiyprXL2c)]
 
 - A novel causal feature learning-based domain generalization framework for bearing fault diagnosis with a mixture of data from multiple working conditions and machines [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624002702)]
 
@@ -261,6 +263,14 @@ We will continue to update this repository and hope this repository can benefit 
 > Sample number for differnt classes in source domains are different.
 <a name="section-id7"></a>
 
+
+### 2024
+
+- Multi-domain Class-imbalance Generalization with Fault Relationship-induced Augmentation for Intelligent Fault Diagnosis [[TIM 2024](https://ieeexplore.ieee.org/document/10606303)
+
+- Long-tailed multi-domain generalization for fault diagnosis of rotating machinery under variable operating conditions [[SHM 2024](https://journals.sagepub.com/doi/10.1177/14759217241256690)
+
+
 ### 2023
 
 - Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)][[Code](https://github.com/CHAOZHAO-1/SDAGN)]
@@ -270,6 +280,8 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id8"></a>
 
 ### 2024
+
+- Single Source Cross-Domain Bearing Fault  Diagnosis via Multi-Pseudo Domain Augmented  Adversarial Domain-Invariant Learning [[JIOT 2024](https://ieeexplore.ieee.org/abstract/document/10577994)]
 
 - Single domain generalization method based on anti-causal learning for rotating machinery fault diagnosis [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S0951832024003247)]
 
