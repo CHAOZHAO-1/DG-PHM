@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240726-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-108-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240810-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-111-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -54,6 +54,8 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 ### 2024
+
+- CIS2N: Causal independence and sparse shift network for rotating machinery fault diagnosis in unseen domains [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024004538)]
 
 - Feature Adaptive Modulation and Prototype Learning for Domain Generalization Intelligent Fault Diagnosis [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10601528?casa_token=IIoGoHYjxtoAAAAA:goxoQguQmVXDeShmA3qeAvQus1xQ2UUOZGYfPOr5VKj4BXVHqpVmsFJjKPQSGy4UgdYiyprXL2c)]
 
@@ -192,6 +194,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
+
+- A blockchain-empowered secure federated domain generalization framework for machinery fault diagnosis [[AEI 2024]https://www.sciencedirect.com/science/article/abs/pii/S147403462400404X)]
+
 - Heterogeneous Federated Domain Generalization Network With Common Representation Learning for Cross-Load Machinery Fault Diagnosis [[TSMC 2024](https://ieeexplore.ieee.org/abstract/document/10571357)]
 
 - Decentralized federated domain generalization with cluster alignment for fault diagnosis [[Control Engineering Practice 2024](https://www.sciencedirect.com/science/article/pii/S0967066124001114?via%3Dihub)]
@@ -214,6 +219,7 @@ We will continue to update this repository and hope this repository can benefit 
 
   
 ### Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)
+
 > One source domain are labeled and other source domains are unlabeled.
 <a name="section-id5"></a>
 
@@ -244,6 +250,8 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id6"></a>
 
 ### 2024
+
+- Open-set domain generalization for fault diagnosis through data augmentation and a dual-level weighted mechanism [[AEI 2024](https://www.sciencedirect.com/science/article/abs/pii/S1474034624003513)]
 
 - Curriculum learning-based domain generalization for cross-domain fault diagnosis with category shift [[MSSP 2024](https://www.sciencedirect.com/science/article/pii/S0888327024001936)]
 
