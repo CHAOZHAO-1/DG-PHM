@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240829-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-111-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240829-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-109-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -53,7 +53,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
-- Distance Aware Risk Minimization for Domain Generalization in Machine Fault Diagnosis [IOT 2024](https://ieeexplore.ieee.org/abstract/document/10632096)]
+- Distance Aware Risk Minimization for Domain Generalization in Machine Fault Diagnosis [[IOT 2024](https://ieeexplore.ieee.org/abstract/document/10632096)]
 
 - Causality-inspired multi-source domain generalization method for intelligent fault diagnosis under unknown operating conditions [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024005118)]
 
@@ -203,7 +203,7 @@ We will continue to update this repository and hope this repository can benefit 
 ### 2024
 
 
-- A blockchain-empowered secure federated domain generalization framework for machinery fault diagnosis [[AEI 2024]https://www.sciencedirect.com/science/article/abs/pii/S147403462400404X)]
+- A blockchain-empowered secure federated domain generalization framework for machinery fault diagnosis [[AEI 2024](https://www.sciencedirect.com/science/article/abs/pii/S147403462400404X)]
 
 - Heterogeneous Federated Domain Generalization Network With Common Representation Learning for Cross-Load Machinery Fault Diagnosis [[TSMC 2024](https://ieeexplore.ieee.org/abstract/document/10571357)]
 
