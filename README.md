@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240810-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-111-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240829-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-111-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -21,8 +21,6 @@ We will continue to update this repository and hope this repository can benefit 
 -   -   - [1.2.4. Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)](#section-id6)
 -   -   - [1.2.5. Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)](#section-id7)
 -   -   - [1.2.6. Single Domain Generalization-based Fault Diagnosis (SDGFD)](#section-id8)
--   -   - [1.2.7. Single Imbalanced Domain Generalization-based Fault Diagnosis (SIDGFD)](#section-id13)
-
   
 - [2. Data](#section-id9)
 
@@ -54,6 +52,16 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 ### 2024
+
+- Distance Aware Risk Minimization for Domain Generalization in Machine Fault Diagnosis [IOT 2024](https://ieeexplore.ieee.org/abstract/document/10632096)]
+
+- Causality-inspired multi-source domain generalization method for intelligent fault diagnosis under unknown operating conditions [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024005118)]
+
+- DPICEN: Deep Physical Information Consistency Embedded Network for Bearing Fault Diagnosis under Unknown Domain [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S095183202400526X)]
+
+- A domain feature decoupling network for rotating machinery fault diagnosis under unseen operating conditions [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024005210)]
+
+- Domain Generalization Combining Covariance Loss With Graph Convolutional Networks for Intelligent Fault Diagnosis of Rolling Bearings [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10643738)]
 
 - CIS2N: Causal independence and sparse shift network for rotating machinery fault diagnosis in unseen domains [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024004538)]
 
@@ -289,6 +297,10 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
+- Simulation data-driven attention fusion network with multi-similarity metric: A single-domain generalization diagnostic method for tie rod bolt loosening of a rod-fastening rotor system [[MEASUREMENT 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124014507)]
+
+- Single imbalanced domain generalization network for intelligent fault diagnosis of compressors in HVAC systems under unseen working conditions [[Energy & Buildings  2024](https://www.sciencedirect.com/science/article/pii/S0378778824003086?via%3Dihub)]
+
 - Single Source Cross-Domain Bearing Fault  Diagnosis via Multi-Pseudo Domain Augmented  Adversarial Domain-Invariant Learning [[JIOT 2024](https://ieeexplore.ieee.org/abstract/document/10577994)]
 
 - Single domain generalization method based on anti-causal learning for rotating machinery fault diagnosis [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S0951832024003247)]
@@ -313,13 +325,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)][[Code](https://github.com/CHAOZHAO-1/AMINet)]
 
-## Single Imbalanced Domain Generalization-based Fault Diagnosis (SIDGFD)
-> source samples are only from a single imbalanced domain.
-<a name="section-id13"></a>
-
-### 2024
-
-- Single imbalanced domain generalization network for intelligent fault diagnosis of compressors in HVAC systems under unseen working conditions [[Energy & Buildings  2024](https://www.sciencedirect.com/science/article/pii/S0378778824003086?via%3Dihub)]
 
 # Data
 > There are eight open-source dataset and two self-collected dataset for research of domain generalization-based fault diagnosis.
