@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240829-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-109-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240917-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-113-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -52,6 +52,10 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 ### 2024
+
+- Deep subdomain adversarial network with self-supervised learning for aero-engine high speed bearing fault diagnosis with unknown working conditions [[Measurement 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124015537)]
+
+- Domain-augmented meta ensemble learning for mechanical fault diagnosis from heterogeneous source domains to unseen target domains [[ESWA 2024](https://www.sciencedirect.com/science/article/abs/pii/S0957417424022127)]
 
 - Distance Aware Risk Minimization for Domain Generalization in Machine Fault Diagnosis [[IOT 2024](https://ieeexplore.ieee.org/abstract/document/10632096)]
 
@@ -296,6 +300,10 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id8"></a>
 
 ### 2024
+
+- Uncertainty-guided adversarial augmented domain networks for single domain generalization fault diagnosis [[Measurement 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124015598)]
+
+- Prior knowledge embedding convolutional autoencoder: A single-source domain generalized fault diagnosis framework under small samples [[CII 2024](https://www.sciencedirect.com/science/article/abs/pii/S0166361524000976)]
 
 - Simulation data-driven attention fusion network with multi-similarity metric: A single-domain generalization diagnostic method for tie rod bolt loosening of a rod-fastening rotor system [[MEASUREMENT 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124014507)]
 
