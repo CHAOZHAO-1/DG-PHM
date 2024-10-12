@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20240917-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-113-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20241012-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-118-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -52,6 +52,11 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 ### 2024
+
+- Fully Simulated Data Driven Domain Generalized Method for Multiphase Converters Fault Diagnosis [[TPEL 2024](https://ieeexplore.ieee.org/abstract/document/10680356)]
+
+
+- Meta-Learning-Based Domain Generalization for Cost-Effective Tool Condition Monitoring in Ultrasonic Metal Welding [[TII 2024](https://ieeexplore.ieee.org/document/10688397?denied=)]
 
 - Deep subdomain adversarial network with self-supervised learning for aero-engine high speed bearing fault diagnosis with unknown working conditions [[Measurement 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124015537)]
 
@@ -206,6 +211,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
+
+
+- FedITA: A cloud–edge collaboration framework for domain generalization-based federated fault diagnosis of machine-level industrial motors [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624005019)]
 
 - A blockchain-empowered secure federated domain generalization framework for machinery fault diagnosis [[AEI 2024](https://www.sciencedirect.com/science/article/abs/pii/S147403462400404X)]
 
@@ -390,6 +398,10 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id11"></a>
 
 ### 2024
+
+- Domain Invariant and Consistent Ordinal Representation Learning for Remaining Useful Life Prediction of Bearings [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10680885)]
+
+- Domain generalization for rotating machinery real-time remaining useful life prediction via multi-domain orthogonal degradation feature exploration [[MSSP 2024](https://www.sciencedirect.com/science/article/abs/pii/S0888327024008227)]
 
 - Remaining useful life prediction of machinery based on performanceevaluation and online cross-domain health indicator under unknownworking conditions [[JMS 2024](https://www.sciencedirect.com/science/article/pii/S0278612524001328?casa_token=RFcpI7YJdp4AAAAA:oom_6YMx4BUDEZeAon2wrLXhtEb2xQnwkCf2ErgrKpD5nY89_Zt6ASkfA8KGEu2jkPm4BvP95Blg)]
 
