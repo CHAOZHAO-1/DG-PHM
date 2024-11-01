@@ -54,13 +54,13 @@ We will continue to update this repository and hope this repository can benefit 
 ### 2024
 
 
-- Bearing fault diagnostic framework under unknown working conditions based on condition-guided diffusion model [[Measurement 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124018360]
+- Bearing fault diagnostic framework under unknown working conditions based on condition-guided diffusion model [[Measurement 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124018360)]
 
 
-- Utilizing Bayesian generalization network for reliable fault diagnosis of machinery with limited data [[KBS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0950705124012620]
+- Utilizing Bayesian generalization network for reliable fault diagnosis of machinery with limited data [[KBS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0950705124012620)]
 
 
-- Self-adaptive fault diagnosis for unseen working conditions based on digital twins and domain generalization [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S095183202400632X]
+- Self-adaptive fault diagnosis for unseen working conditions based on digital twins and domain generalization [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S095183202400632X)]
 
 - A bearing fault diagnosis method for unknown operating conditions based on differentiated feature extraction [[ISA 2024](https://www.sciencedirect.com/science/article/abs/pii/S0019057824005019)]
 
@@ -258,7 +258,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
-- An Auxiliary Branch Semi-supervised Domain Generalization Network for Unseen Working Conditions Bearing Fault Diagnosis [[IEEE SENSOR 2024](https://ieeexplore.ieee.org/abstract/document/10735114]
+- An Auxiliary Branch Semi-supervised Domain Generalization Network for Unseen Working Conditions Bearing Fault Diagnosis [[IEEE SENSOR 2024](https://ieeexplore.ieee.org/abstract/document/10735114)]
 
 - Contrast-Assisted Domain-Specificity-Removal Network for Semi-Supervised Generalization Fault Diagnosis [[TNNLS 2024](https://ieeexplore.ieee.org/document/10495144)]
 
