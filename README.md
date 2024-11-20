@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20241101-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-124-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20241120-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-127-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -53,14 +53,17 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
+- Adversarial-Causal Representation Learning Networks for Machine fault diagnosis under unseen conditions based on vibration and acoustic signals [[EAAI 2024](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017081]
 
-- Bearing fault diagnostic framework under unknown working conditions based on condition-guided diffusion model [[Measurement 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124018360)]
+- A novel hybrid data-driven domain generalization approach with dual-perspective feature fusion for intelligent fault diagnosis [[EAAI 2024](https://www.sciencedirect.com/science/article/abs/pii/S095219762401772X]
+
+- Bearing fault diagnostic framework under unknown working conditions based on condition-guided diffusion model [[Measurement 2024](https://www.sciencedirect.com/science/article/abs/pii/S0263224124018360]
 
 
-- Utilizing Bayesian generalization network for reliable fault diagnosis of machinery with limited data [[KBS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0950705124012620)]
+- Utilizing Bayesian generalization network for reliable fault diagnosis of machinery with limited data [[KBS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0950705124012620]
 
 
-- Self-adaptive fault diagnosis for unseen working conditions based on digital twins and domain generalization [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S095183202400632X)]
+- Self-adaptive fault diagnosis for unseen working conditions based on digital twins and domain generalization [[RESS 2024](https://www.sciencedirect.com/science/article/pii/S095183202400632X]
 
 - A bearing fault diagnosis method for unknown operating conditions based on differentiated feature extraction [[ISA 2024](https://www.sciencedirect.com/science/article/abs/pii/S0019057824005019)]
 
@@ -224,6 +227,8 @@ We will continue to update this repository and hope this repository can benefit 
 ### 2024
 
 
+- Heterogeneous Federated Learning: Client-side Collaborative Update Inter-Domain Generalization Method for Intelligent Fault Diagnosis
+ [[IOT 2024](https://ieeexplore.ieee.org/abstract/document/10742072)]
 
 - FedITA: A cloud–edge collaboration framework for domain generalization-based federated fault diagnosis of machine-level industrial motors [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624005019)]
 
@@ -258,7 +263,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
-- An Auxiliary Branch Semi-supervised Domain Generalization Network for Unseen Working Conditions Bearing Fault Diagnosis [[IEEE SENSOR 2024](https://ieeexplore.ieee.org/abstract/document/10735114)]
+- An Auxiliary Branch Semi-supervised Domain Generalization Network for Unseen Working Conditions Bearing Fault Diagnosis [[IEEE SENSOR 2024](https://ieeexplore.ieee.org/abstract/document/10735114]
 
 - Contrast-Assisted Domain-Specificity-Removal Network for Semi-Supervised Generalization Fault Diagnosis [[TNNLS 2024](https://ieeexplore.ieee.org/document/10495144)]
 
@@ -402,7 +407,7 @@ We will continue to update this repository and hope this repository can benefit 
 |[**Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis**](https://www.sciencedirect.com/science/article/pii/S1474034623003907) <br> | AEI | 2024 | [Github](https://github.com/CHAOZHAO-1/SDAGN) | IDGFD |
 |[**Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions**](https://www.sciencedirect.com/science/article/pii/S0888327022011426) <br> | MSSP | 2023 | [Github](https://github.com/CHAOZHAO-1/MSDGN) | SemiDGFD |
 |[**Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions**](https://www.sciencedirect.com/science/article/pii/S0951832022003064) <br> | RESS | 2022 | [Github](https://github.com/CHAOZHAO-1/AOSDGN) | OSDGFD |
-|[**Adversarial mutual information-guided single domain generalization network for intelligent fault diagnosis**](https://ieeexplore.ieee.org/abstract/document/9774938) <br> | TII | 2022 | [Github](https://github.com/CHAOZHAO-1/AMINet) | SDGFD |
+
 
 
 # Talk
