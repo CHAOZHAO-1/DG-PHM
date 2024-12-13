@@ -1,6 +1,6 @@
-# Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
+# Domain-generalization-for-fault-diagnosis-and-prognosis 领域泛化方法用于故障诊断和预测
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20241120-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-127-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20241213-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-131-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -44,7 +44,10 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
+- Progress and prospects of domain generalization mechanical fault diagnosis research[[SST 2024](https://www.sciengine.com/SST/doi/10.1360/SST-2024-0149;JSESSIONID=e9f75e7f-9d81-4327-b5bf-b52a27cf74c7)]
+
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] （第一篇关于DGFD的综述）
+
 
 
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
@@ -52,6 +55,8 @@ We will continue to update this repository and hope this repository can benefit 
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 ### 2024
+
+- Domain-invariant feature exploration for intelligent fault diagnosis under unseen and time-varying working conditions [[MSSP 2024](https://www.sciencedirect.com/science/article/abs/pii/S0888327024010926)]
 
 - Adversarial-Causal Representation Learning Networks for Machine fault diagnosis under unseen conditions based on vibration and acoustic signals [[EAAI 2024](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017081)]
 
@@ -292,6 +297,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
+- A novel domain-private-suppress meta-recognition network based universal domain generalization for machinery fault diagnosis [[KBS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014096)]
+
+
 - Open-set domain generalization for fault diagnosis through data augmentation and a dual-level weighted mechanism [[AEI 2024](https://www.sciencedirect.com/science/article/abs/pii/S1474034624003513)]
 
 - Curriculum learning-based domain generalization for cross-domain fault diagnosis with category shift [[MSSP 2024](https://www.sciencedirect.com/science/article/pii/S0888327024001936)]
@@ -315,6 +323,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
+- Adaptive Variational Sampling-embedded Domain Generalization Network for fault diagnosis with intra-inter-domain class imbalance[[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024007786)]
 
 - A two-stage learning framework for imbalanced semi-supervised domain generalization fault diagnosis under unknown operating conditions [[AEI 2024](https://www.sciencedirect.com/science/article/abs/pii/S1474034624005263)]
 
