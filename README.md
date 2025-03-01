@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250208-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-137-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250301-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-144-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -59,6 +59,16 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 ### 2025
+
+- Dual disentanglement domain generalization method for rotating Machinery fault diagnosis [[MSSP 2025](https://www.sciencedirect.com/science/article/abs/pii/S088832702500161X)]
+
+
+- Deep Causal Disentanglement Network with Domain Generalization for Cross-machine Bearing Fault Diagnosis [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10902465)]
+
+- A Source Domain Adaptive Method for Transfer-Learning-Based Fault Diagnosis of Train Bogie Bearings at Higher Speeds [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10892004)]
+
+- Frequency domain guided latent diffusion model for domain generalization in cross-machine fault diagnosis [[Measurement 2025](https://www.sciencedirect.com/science/article/abs/pii/S0263224125003483)]
+
 
 - Invariant Feature Purification Method for Domain Generalization of Rolling Bearing Fault Diagnosis [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10816046)]
 
@@ -306,10 +316,16 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2025
 
+- Dual-contrastive Multi-view Graph Attention Network for Industrial Fault Diagnosis under Domain and Label Shift [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10891912)]
+
+
+- Auxiliary-feature-embedded causality-inspired dynamic penalty networks for open-set domain generalization diagnosis scenario [[AEI 2025](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001132)]
+
 
 - Adaptive reconstruct feature difference network for open set domain generalization fault diagnosis [[EAAI 2025](https://www.sciencedirect.com/science/article/pii/S0952197624020542)]
 
 - A self-improving fault diagnosis method for intershaft bearings with missing training samples [[MSSP 2025](https://www.sciencedirect.com/science/article/pii/S0888327024011592)]
+
 
 ### 2024
 
@@ -360,6 +376,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 ### 2025 
+
+- Fault Diagnosis in Rolling Bearings Using Multi-Gaussian Attention and Covariance Loss for Single Domain Generalization [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10902562)]
+
 
 - Dual adversarial and contrastive network for single-source domain generalization in fault diagnosis [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625000333)]
 
@@ -494,7 +513,7 @@ If you have any problem, please feel free to contact me.
 
 Name: Chao Zhao
 
-Email address: zhaochao734@hust.edu.cn
+Email address: zhaochao0612@gmail.com
 
 
 # BibTex Citation
