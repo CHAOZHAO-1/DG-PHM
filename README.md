@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250301-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-144-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250324-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-149-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -59,6 +59,20 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 ### 2025
+
+
+
+- Multiple classifiers inconsistency-based deep adversarial domain generalization method for cross-condition fault diagnosis in rotating systems [[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832025002182)]
+
+
+- Cross-domain machinery fault diagnosis under unseen working conditions based on multiple auxiliary classifiers [[TIOM 2025](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003470076-82/cross-domain-machinery-fault-diagnosis-unseen-working-conditions-based-multiple-auxiliary-classifiers-rui-wang-weiguo-huang-xiao-zhang-mingkuan-shi-chuancang-ding-zhongkui-zhu)]
+
+
+- Mutual Information-guided Domain Shared Feature Learning for Bearing Fault Diagnosis under Unknown Conditions [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10930619)]
+
+
+- A Domain Generalization Method for Fault Diagnosis: Integrating Causal Leaming and Distributionally Robust Optimization [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10929665)]
+
 
 - Dual disentanglement domain generalization method for rotating Machinery fault diagnosis [[MSSP 2025](https://www.sciencedirect.com/science/article/abs/pii/S088832702500161X)]
 
@@ -248,6 +262,11 @@ We will continue to update this repository and hope this repository can benefit 
 ### Federated Domain Generalization-based Fault Diagnosis (FedDGFD)
 > Multi-souce data are stored in different local clients.
 <a name="section-id4"></a>
+
+
+### 2025
+
+- Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation [[IOT 2025](https://ieeexplore.ieee.org/document/10926881)]
 
 ### 2024
 
