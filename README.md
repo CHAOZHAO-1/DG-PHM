@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250324-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-149-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250412-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-147-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -44,6 +44,8 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2025
 
+
+
 - Domain generalization for rotating machinery fault diagnosis: A survey [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034624007146)] 
 
 ### 2024
@@ -60,6 +62,17 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2025
 
+
+- Enhancing Bearing Fault Diagnosis in Real Damages: A Hybrid Multidomain Generalization Network for Feature Comparison [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10955333)]
+
+
+- Neuromorphic computing-enabled generalized machine fault diagnosis with dynamic vision [[AEI 2025](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001934)]
+
+
+- Domain generalization network based on inter-domain multivariate linearization for intelligent fault diagnosis [[RESS 2025](https://www.sciencedirect.com/science/article/abs/pii/S095183202500256X)]
+
+
+- DG-Softmax: A new domain generalization intelligent fault diagnosis method for planetary gearboxes [[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832025002583#cebibl1)]
 
 
 - Multiple classifiers inconsistency-based deep adversarial domain generalization method for cross-condition fault diagnosis in rotating systems [[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832025002182)]
@@ -266,6 +279,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2025
 
+- A Gradient Alignment Federated Domain Generalization Framework for Rotating Machinery Fault Diagnosis [[IOT 2025](https://ieeexplore.ieee.org/abstract/document/10949604)]
+
+
 - Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation [[IOT 2025](https://ieeexplore.ieee.org/document/10926881)]
 
 ### 2024
@@ -372,6 +388,15 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id7"></a>
 
 
+
+### 2025
+
+
+- DRSC: Dual-Reweighted Siamese Contrastive Learning Network for Cross-Domain Rotating Machinery Fault Diagnosis With Multi-Source Domain Imbalanced Data [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/10944708)]
+
+- Imbalanced multi-domain generalization method for electro-mechanical actuator fault diagnosis under variable working conditions [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10938387)]
+
+
 ### 2024
 
 - Adaptive Variational Sampling-embedded Domain Generalization Network for fault diagnosis with intra-inter-domain class imbalance[[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024007786)]
@@ -389,12 +414,17 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)][[Code](https://github.com/CHAOZHAO-1/SDAGN)]
 
+
+
+
 ## Single Domain Generalization-based Fault Diagnosis (SDGFD)
 > source samples are only from a single domain.
 <a name="section-id8"></a>
 
 
 ### 2025 
+
+- Addressing unknown faults diagnosis of transport ship propellers system based on adaptive evolutionary reconstruction metric network [[AEI 2025](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001806)]
 
 - Fault Diagnosis in Rolling Bearings Using Multi-Gaussian Attention and Covariance Loss for Single Domain Generalization [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10902562)]
 
