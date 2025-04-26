@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250412-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-147-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250426-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-150-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -44,15 +44,13 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2025
 
-
+- Applications of domain generalization to machine fault diagnosis: A survey [[IEEE/CAA Journal of Automatica Sinica 2025](https://ieeexplore.ieee.org/abstract/document/10965929)] 
 
 - Domain generalization for rotating machinery fault diagnosis: A survey [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034624007146)] 
 
 ### 2024
 
-
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] （第一篇关于DGFD的综述）
-
 
 
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
@@ -61,6 +59,12 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 ### 2025
+
+
+
+- Dynamic Meta-Decoupler-inspired Single-Universal Domain Generalization for Intelligent Fault Diagnosis [[ESWA 2025](https://www.sciencedirect.com/science/article/pii/S0957417425011509)]
+
+- UDDGN: Domain-Independent Compact Boundary Learning Method for Universal Diagnosis Domain Generation [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10962449)]
 
 
 - Enhancing Bearing Fault Diagnosis in Real Damages: A Hybrid Multidomain Generalization Network for Feature Comparison [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10955333)]
