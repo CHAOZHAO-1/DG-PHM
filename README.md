@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250426-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-150-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250519-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-157-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -61,8 +61,23 @@ We will continue to update this repository and hope this repository can benefit 
 ### 2025
 
 
+- Operation Condition Assessment for Elevators Based on Multidomain Generalization and Adaptation  [[TMEC 2025](https://ieeexplore.ieee.org/abstract/document/10981655)]
+
+- Multi-bearing fault diagnosis method based on convolutional autoencoder causal decoupling domain generalization  [[ISA 2025](https://www.sciencedirect.com/science/article/abs/pii/S0019057825002423)]
+
+
+- Fault Diagnosis of Unseen Modes in Chemical Process via Fusing Invariance and Specificity  [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10994374)]
+
+- Knowledge-informed multiplication convolution generalization network for interpretable equipment diagnosis under unknown speed domains  [[ASC 2025](https://www.sciencedirect.com/science/article/abs/pii/S1568494625005745)]
+
+
+- Bearing fault diagnosis domain generalization network based on multi-scale feature alignment  [[MST 2025](https://iopscience.iop.org/article/10.1088/1361-6501/add8ac/meta)]
+
+- A Causality-Inspired Capsule Network for Domain Generalization in Cross-Domain Fault Diagnosis of Rolling Bearing  [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/11004069)]
+
 
 - Dynamic Meta-Decoupler-inspired Single-Universal Domain Generalization for Intelligent Fault Diagnosis [[ESWA 2025](https://www.sciencedirect.com/science/article/pii/S0957417425011509)]
+
 
 - UDDGN: Domain-Independent Compact Boundary Learning Method for Universal Diagnosis Domain Generation [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10962449)]
 
@@ -254,7 +269,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Deep Domain Generalization Combining APriori Diagnosis Knowledge Toward Cross-Domain Fault Diagnosis of Rolling Bearing [[TIM 2022](https://ieeexplore.ieee.org/document/9174912)]
 
-- Conditional Adversarial Domain Generalization With a Single Discriminator for Bearing Fault Diagnosis [[TIM 2022](https://ieeexplore.ieee.org/document/9399341)]
+- Conditional Adversarial Domain Generalization With a Single Discriminator for Bearing Fault Diagnosis [[TIM 2022](https://ieeexplore.ieee.org/document/9399341)] [[Code](https://github.com/mohamedr002/CCDG)]
 
 - Whitening-Net: A Generalized Network to Diagnose the Faults Among Different Machines and Conditions [[TNNLS 2022](https://ieeexplore.ieee.org/document/9411732)]
 
@@ -395,6 +410,9 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2025
 
+
+
+- Imbalanced multidomain generalization fault diagnosis based on prototype-guided supervised contrastive learning with dynamic temperature modulation [[SHM 2025](https://journals.sagepub.com/doi/abs/10.1177/14759217251332517)]
 
 - DRSC: Dual-Reweighted Siamese Contrastive Learning Network for Cross-Domain Rotating Machinery Fault Diagnosis With Multi-Source Domain Imbalanced Data [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/10944708)]
 
