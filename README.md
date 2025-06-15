@@ -1,6 +1,6 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250519-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-157-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250615-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-164-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -59,6 +59,21 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 ### 2025
+
+
+- A dual-perspective joint domain generalization network for bearing fault diagnosis under unseen working conditions  [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625003404)]
+
+
+- Specific Task-Guided Collaborative Domain Generalization Network for Intelligent Fault Diagnosis under Unseen Conditions  [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/11007102)]
+
+
+- Few-Shot Diffusion Domain Generalization for Diagnosing Joint Reducer Faults in Industrial Robots  [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/11023233)]
+
+
+- Latent subdomain assignment based on pseudo domain labels for fault diagnosis of unseen data  [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625004197)]
+
+
+- A discriminator-free adversarial network for bearing fault diagnosis under unseen operating conditions  [[AA 2025](https://www.sciencedirect.com/science/article/pii/S0003682X25003494)]
 
 
 - Operation Condition Assessment for Elevators Based on Multidomain Generalization and Adaptation  [[TMEC 2025](https://ieeexplore.ieee.org/abstract/document/10981655)]
@@ -185,7 +200,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 - Dynamic Balanced Dual Prototypical Domain Generalization for Cross-Machine Fault Diagnosis [[TIM 2024](https://ieeexplore.ieee.org/abstract/document/10478588?casa_token=-G_y0OTBHNsAAAAA:0couiFmM9wFXOCrelYjrTp9gJmJbJAAlr8HwgbDQMq0AfFrdIvXe6MIdKXh1sR9RYK90XQg)]
-
 
 
 - Novel Adversarial Unsupervised Subdomain Adaption Multi-Channel Deep Convolutional Network for Cross-Operating Fault Diagnosis of Rolling Bearings [[IEEE ACCESS 2024](https://ieeexplore.ieee.org/abstract/document/10473058)]
@@ -414,6 +428,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Imbalanced multidomain generalization fault diagnosis based on prototype-guided supervised contrastive learning with dynamic temperature modulation [[SHM 2025](https://journals.sagepub.com/doi/abs/10.1177/14759217251332517)]
 
+
 - DRSC: Dual-Reweighted Siamese Contrastive Learning Network for Cross-Domain Rotating Machinery Fault Diagnosis With Multi-Source Domain Imbalanced Data [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/10944708)]
 
 - Imbalanced multi-domain generalization method for electro-mechanical actuator fault diagnosis under variable working conditions [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10938387)]
@@ -446,7 +461,17 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2025 
 
+
+
+-Multi-style adversarial variational self-distillation in randomized domains for single-domain generalized fault diagnosis [[CII 2025](https://www.sciencedirect.com/science/article/pii/S0166361525000843)]
+
+
+-A Generic Single-Source Domain Generalization Framework for Fault Diagnosis via Wavelet Packet Augmentation and Pseudo-Domain Generation [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/11015920)]
+
+
 - Addressing unknown faults diagnosis of transport ship propellers system based on adaptive evolutionary reconstruction metric network [[AEI 2025](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001806)]
+
+
 
 - Fault Diagnosis in Rolling Bearings Using Multi-Gaussian Attention and Covariance Loss for Single Domain Generalization [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10902562)]
 
