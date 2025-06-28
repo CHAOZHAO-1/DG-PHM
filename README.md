@@ -1,6 +1,6 @@
-# Domain-generalization-for-fault-diagnosis-and-prognosis （updating）领域泛化方法用于故障诊断和预测 (持续更新中)
+# Domain-generalization-for-fault-diagnosis-and-prognosis 领域泛化方法用于故障诊断和预测
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250615-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-164-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250628-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-169-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
@@ -353,6 +353,9 @@ We will continue to update this repository and hope this repository can benefit 
 > One source domain are labeled and other source domains are unlabeled.
 <a name="section-id5"></a>
 
+### 2025
+
+- Domain knowledge guided pseudo-label generation framework for semi-supervised domain generalization fault diagnosis [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625004331)]
 
 ### 2024
 
@@ -423,8 +426,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 ### 2025
-
-
 
 - Imbalanced multidomain generalization fault diagnosis based on prototype-guided supervised contrastive learning with dynamic temperature modulation [[SHM 2025](https://journals.sagepub.com/doi/abs/10.1177/14759217251332517)]
 
@@ -571,8 +572,21 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id11"></a>
 
 
+### 2025
+
+
+-Towards prognostic generalization: a domain conditional invariance and specificity disentanglement network for remaining useful life prediction [[Measurement 2025](https://www.sciencedirect.com/science/article/pii/S0263224124023364?casa_token=Iy9NcEz_fPAAAAAA:HMb7ec267uBNaEqhimmpzg4rbe17H_pIf39v41GWhpDN247vl04ZomLjMYStwI-nBthzUabong)]
+
+- Contrastive domain-invariant generalization for remaining useful life prediction under diverse conditions and fault modes [[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832024006069?casa_token=56rN4xmGmooAAAAA:yUWPSQogKbc_uAQ7nU-nKDmSSC1NmRSlT4974jC87NIeDxaoi4CpLVJW76EogdfLXLzKfD9vPA)]
+
+- A generalized network with domain invariance and specificity representation for bearing remaining useful life prediction under unknown conditions [[KBS 2025](https://www.sciencedirect.com/science/article/pii/S0950705124015491?casa_token=YkE_7QWZliEAAAAA:IOPzRfpg-fSmtuYOXLUZBRvG3XLbtlsd2TYTx5uOC6v9M1Dt19hA6Jx4t1v6v8it5BLO5Tc62w)]
+
+
+
 
 ### 2024
+
+- Towards prognostic generalization: a domain conditional invariance and specificity disentanglement network for remaining useful life prediction [[JMS 2024](https://link.springer.com/article/10.1007/s10845-023-02215-z)]
 
 - Domain Invariant and Consistent Ordinal Representation Learning for Remaining Useful Life Prediction of Bearings [[TII 2024](https://ieeexplore.ieee.org/abstract/document/10680885)]
 
