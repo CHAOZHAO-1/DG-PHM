@@ -1,12 +1,12 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis 领域泛化方法用于故障诊断和预测
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250729-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-252-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20260729-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-252-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
 We will continue to update this repository and hope this repository can benefit your research.
 
-![Image 1](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG1/combined_plot.png)
+![Image 1](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG2/combined_plot.png)
 
 
 # 📚 Overview
