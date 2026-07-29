@@ -718,16 +718,33 @@ We will continue to update this repository and hope this repository can benefit 
 
 # Code for Method Paper
 <a name="section-id13"></a>
-|  Title  |   Journal  |   Date   |   Code   |   topic   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-|[**Conditional Contrastive Domain Generalization For Fault Diagnosis**](https://ieeexplore.ieee.org/abstract/document/9721021) <br> | TIM | 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
-|[**A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis**](https://www.sciencedirect.com/science/article/pii/S0888327022001686) <br> | MSSP| 2022 | [Github](https://github.com/CHAOZHAO-1/DGNIS) | DGFD |
-|[**Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator**](https://ieeexplore.ieee.org/abstract/document/9399341/) <br> | TIM| 2022 | [Github](https://github.com/hectorLop/Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator) | DGFD |
-|[**A federated distillation domain generalization framework for machinery fault diagnosis with data privacy**](https://www.sciencedirect.com/science/article/pii/S0952197623019498) <br> | EAAI | 2024 | [Github](https://github.com/CHAOZHAO-1/FDDG) | FedDGFD |
-|[**Federated domain generalization: A secure and robust framework for intelligent fault diagnosis**](https://ieeexplore.ieee.org/abstract/document/10196327) <br> | TII | 2023 | [Github](https://github.com/CHAOZHAO-1/FedDGMC) | FedDGFD |
-|[**Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis**](https://www.sciencedirect.com/science/article/pii/S1474034623003907) <br> | AEI | 2024 | [Github](https://github.com/CHAOZHAO-1/SDAGN) | IDGFD |
-|[**Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions**](https://www.sciencedirect.com/science/article/pii/S0888327022011426) <br> | MSSP | 2023 | [Github](https://github.com/CHAOZHAO-1/MSDGN) | SemiDGFD |
-|[**Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions**](https://www.sciencedirect.com/science/article/pii/S0951832022003064) <br> | RESS | 2022 | [Github](https://github.com/CHAOZHAO-1/AOSDGN) | OSDGFD |
+
+
+| Title | Journal | Date | Code | Topic |
+|:------|:-------:|:----:|:----:|:-----:|
+| **Conditional Contrastive Domain Generalization For Fault Diagnosis** | TIM | 2022 | [Github](https://github.com/mohamedr002/CCDG) | DGFD |
+| **A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis** | MSSP | 2022 | [Github](https://github.com/CHAOZHAO-1/DGNIS) | DGFD |
+| **Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator** | TIM | 2022 | [Github](https://github.com/hectorLop/Conditional-Adversarial-Domain-Generalization-with-Single-Discriminator) | DGFD |
+| **DPICEN: Deep physical information consistency embedded network for bearing fault diagnosis under unknown domain** | RESS | 2024 | [Github](https://github.com/John-520/Models-for-DPICEN) | DGFD |
+| **Distance-Aware Risk Minimization for Domain Generalization in Machine Fault Diagnosis** | IOT | 2024 | [Github](https://github.com/mozhenling/doge-darm) | DGFD |
+| **Dynamic Balanced Dual Prototypical Domain Generalization for Cross-Machine Fault Diagnosis** | TIM | 2024 | [Github](https://github.com/ShaneSpace/MyResearchWorksPublic) | DGFD |
+| **Environment-Aware Graph Relational Reasoning for Interpretable and Generalizable Mechanical Transmission System Distributed Fault Diagnosis** | ESWA | 2025 | [Github](https://github.com/CHAOZHAO-1/EAGRR) | DGFD |
+| **Semantics-Consistent Representation Learning for Industrial Fault Diagnosis in Unseen Domains** | IOI | 2025 | [Github](https://github.com/ifuturekk/SCRL) | DGFD |
+| **Domain interference suppression for reliable fault diagnosis under unseen operating conditions** | MSSP | 2026 | [Github](https://github.com/jshzh163com/DIS) | DGFD |
+| **Wavelet packet energy embedded autoencoder with dynamic weighting strategy for fault diagnosis under unknown working conditions** | RESS | 2026 | [Github](https://github.com/John-520/WPEEAE-DWS) | DGFD |
+| **Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions** | RESS | 2022 | [Github](https://github.com/CHAOZHAO-1/AOSDGN) | OSDGFD |
+| **Prototype-driven open-set domain generalization for rotating machinery fault diagnosis via multiview adversarial purification** | KBS | 2026 | [Github](https://github.com/simonhfut/MVAPN) | OSDGFD |
+| **Causal feature-aware dynamic graph neural network for open-set domain generalization diagnosis in multi-sensor systems** | AEI | 2026 | [Github](https://github.com/lysdzsy/CFDG) | OSDGFD |
+| **Federated domain generalization: A secure and robust framework for intelligent fault diagnosis** | TII | 2023 | [Github](https://github.com/CHAOZHAO-1/FedDGMC) | FedDGFD |
+| **A federated distillation domain generalization framework for machinery fault diagnosis with data privacy** | EAAI | 2024 | [Github](https://github.com/CHAOZHAO-1/FDDG) | FedDGFD |
+| **Heterogeneous Federated Learning: Client-side Collaborative Update Inter-Domain Generalization Method for Intelligent Fault Diagnosis** | IOT | 2024 | [Github](https://github.com/JC952/P2PCHF) | FedDGFD |
+| **Heterogeneous Federated Domain Generalization Network With Common Representation Learning for Cross-Load Machinery Fault Diagnosis** | TIM | 2024 | [Project](https://qinyi-team.github.io/2024/05/Heterogeneous-federated-domain-generalization-network) | FedDGFD |
+| **Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions** | MSSP | 2023 | [Github](https://github.com/CHAOZHAO-1/MSDGN) | SemiDGFD |
+| **Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis** | AEI | 2024 | [Github](https://github.com/CHAOZHAO-1/SDAGN) | IDGFD |
+| **Discrete wavelet convolutional network with cross-contrast perturbation for single domain generalization in fault diagnosis** | MSSP | 2025 | [Github](https://github.com/JC952/DWCN-SDGFD) | SDGFD |
+| **Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments** | EAAI | 2025 | [Github](https://github.com/CHAOZHAO-1/MUGTN) | MDGFD |
+
+
 
 
 
