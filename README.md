@@ -53,6 +53,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] （第一篇关于DGFD的综述）
 
+- Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] ![](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.ress.2024.109964) （第一篇关于DGFD的综述）
 
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 <a name="section-id3"></a>
@@ -352,8 +353,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Whitening-Net: A Generalized Network to Diagnose the Faults Among Different Machines and Conditions [[TNNLS 2022](https://ieeexplore.ieee.org/document/9411732)]
 
-
-
 ### 2021
 
 - Causal Disentanglement: A Generalized Bearing Fault Diagnostic Framework in Continuous Degradation Mode [[TNNLS 2021](https://ieeexplore.ieee.org/document/9664454)]
@@ -392,9 +391,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2024
 
-
-- Heterogeneous Federated Learning: Client-side Collaborative Update Inter-Domain Generalization Method for Intelligent Fault Diagnosis
- [[IOT 2024](https://ieeexplore.ieee.org/abstract/document/10742072)][[Code](https://github.com/JC952/P2PCHF)]
+- Heterogeneous Federated Learning: Client-side Collaborative Update Inter-Domain Generalization Method for Intelligent Fault Diagnosis [[IOT 2024](https://ieeexplore.ieee.org/abstract/document/10742072)][[Code](https://github.com/JC952/P2PCHF)]
 
 - FedITA: A cloud–edge collaboration framework for domain generalization-based federated fault diagnosis of machine-level industrial motors [[AEI 2024](https://www.sciencedirect.com/science/article/pii/S1474034624005019)]
 
@@ -422,7 +419,6 @@ We will continue to update this repository and hope this repository can benefit 
 
   
 ### Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)
-
 
 > One source domain are labeled and other source domains are unlabeled.
 <a name="section-id5"></a>
@@ -454,7 +450,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Contrast-Assisted Domain-Specificity-Removal Network for Semi-Supervised Generalization Fault Diagnosis [[TNNLS 2024](https://ieeexplore.ieee.org/document/10495144)]
 
-
 ### 2023
 
 - Domain-invariant feature fusion networks for semi-supervised generalization fault diagnosis [[EAAI 2023]( https://www.sciencedirect.com/science/article/pii/S0952197623013015)]
@@ -469,8 +464,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Deep Semisupervised Domain Generalization Network for Rotary Machinery Fault Diagnosis Under Variable Speed [[TIM 2020](https://ieeexplore.ieee.org/document/9088148)]
 
-
-
 ### Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)
 
 > Class space among multiple source domains and unseen target domain is different.
@@ -478,15 +471,20 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2026
 
-
 - Trustworthy Open Set Domain Generalization Network for Unknown Fault Diagnosis Under Unseen Conditions. Ieee Transactions on Instrumentation and Measurement
 
 - Transformer-enhanced feature extraction with adaptive thresholding for domain generalization fault diagnosis under open-set scenarios. Applied Soft Computing
+
 - Open-set domain generalization residual feature reconstruction network for intelligent fault diagnosis under unknown time-varying working conditions. Mechanical Systems and Signal Processing
+
 - Domain-augmented open-set generalization framework for fault diagnosis in rotating machinery. Engineering Applications of Artificial Intelligence
+
 - Knowledge regroupment and preference calibration framework for unpredicted fault diagnosis under unknown working conditions. Reliability Engineering & System Safety, 
+
 - Prototype-driven open-set domain generalization for rotating machinery fault diagnosis via multiview adversarial purification. Knowledge-Based Systems
+
 -  Adaptive spectral graph wavelet network for open set domain generalization in variable working condition fault diagnosis. Computers & Industrial Engineering
+
 - Causal feature-aware dynamic graph neural network for open-set domain generalization diagnosis in multi-sensor systems. Advanced Engineering Informatics
 
 ### 2025
@@ -550,7 +548,6 @@ We will continue to update this repository and hope this repository can benefit 
 - Sharpness-aware debiased alignment for imbalanced domain generalization fault diagnosis. Engineering Applications of Artificial Intelligence
 
 - Imbalanced multidomain generalization fault diagnosis based on prototype-guided supervised contrastive learning with dynamic temperature modulation [[SHM 2025](https://journals.sagepub.com/doi/abs/10.1177/14759217251332517)]
-
 
 - DRSC: Dual-Reweighted Siamese Contrastive Learning Network for Cross-Domain Rotating Machinery Fault Diagnosis With Multi-Source Domain Imbalanced Data [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/10944708)]
 
@@ -669,8 +666,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)]
 
-
-
 ## Multimodal Domain Generalization-based Fault Diagnosis (MDGFD)
 
 > model input is multimodal samples.
@@ -678,6 +673,8 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id13"></a>
 
 ### 2026
+
+- Evidential deep learning-based multi-modal domain generalization for fault diagnosis of permanent magnet synchronous motors
 
 - Multimodal Domain Generalization for Inter-Turn Short-Circuit Fault Diagnosis of Permanent Magnet Synchronous Motors. IEEE Transactions on Industrial Electronics
 
@@ -746,8 +743,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 
-
-
 # Talk
 <a name="section-id14"></a>
 
@@ -761,7 +756,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ### 2026
 
--CEC-FedISDG: A Cloud-Edge Collaboration Federated Invariance and Specificity Domain Generalization Method for Machine Remaining Useful Life Prediction
+- CEC-FedISDG: A Cloud-Edge Collaboration Federated Invariance and Specificity Domain Generalization Method for Machine Remaining Useful Life Prediction
 
 
 ### 2025
@@ -771,7 +766,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Cross-domain Remaining Useful Life prediction under unseen condition via Mixed Data and Domain Generalization
 
- -Common distribution discrepancy knowledge distilling: A new out-of-distribution generalization framework for machinery RUL prediction
+- Common distribution discrepancy knowledge distilling: A new out-of-distribution generalization framework for machinery RUL prediction
 
 - Out-of-domain generalization for remaining useful life prediction of rotating machinery from a single source: An adversarial contrastive learning approach
 
