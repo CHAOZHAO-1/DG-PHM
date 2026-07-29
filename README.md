@@ -668,7 +668,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 ## Multimodal Domain Generalization-based Fault Diagnosis (MDGFD)
 
-> model input is multimodal samples.
+> The input to the model comprises multimodal samples.
 
 <a name="section-id13"></a>
 
@@ -711,6 +711,11 @@ We will continue to update this repository and hope this repository can benefit 
 > Our benchmark code is released at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]  
 
 > Another benchmark code is released at  [[Code link](https://github.com/ShaneSpace/DGFDBenchmark)]  
+
+| Benchmark | Repository |
+|-----------|------------|
+| **Our DGFD Benchmark** | [[Code Link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)] |
+| **Another DGFD Benchmark** | [[Code Link](https://github.com/ShaneSpace/DGFDBenchmark)] |
 
 
 # Code for Method Paper
