@@ -53,6 +53,8 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] （第一篇关于DGFD的综述）
 
+- - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] ![](https://api.juleskreuer.eu/citation-badge.php?doi=10.1016/j.ress.2024.109964) （第一篇关于DGFD的综述）
+
 
 ### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 <a name="section-id3"></a>
