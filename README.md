@@ -1,38 +1,39 @@
 # Domain-generalization-for-fault-diagnosis-and-prognosis 领域泛化方法用于故障诊断和预测
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250628-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-169-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen) ![Last update](https://img.shields.io/badge/Last%20update-20250729-blue) ![Paper number](https://img.shields.io/badge/Paper%20Number-252-orange)
 
 This is a repository about **Domain Generalization for PHM**, including papers, code, datasets etc. 
 
 We will continue to update this repository and hope this repository can benefit your research.
 
-![Image 1](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG2/combined_plot.png)
+![Image 1](https://github.com/CHAOZHAO-1/DG-PHM/blob/main/IMG1/combined_plot.png)
 
 
-# Overview
-- [1. Papers for Fault Diagnosis](#section-id1)
+# 📚 Overview
 
--   - [1.1 Survey](#section-id2)
--   - [1.2 Regular Paper](#section-id3)
+## 📖 Papers
+- [📑 Survey Papers](#section-id2)
+- [📄 Research Papers](#section-id3)
+  - [Homogeneous DGFD (HDGFD)](#section-id3)
+  - [Federated DGFD (FedDGFD)](#section-id4)
+  - [Semi-supervised DGFD (SemiDGFD)](#section-id5)
+  - [Open-set DGFD (OSDGFD)](#section-id6)
+  - [Imbalanced DGFD (IDGFD)](#section-id7)
+  - [Single-source DGFD (SDGFD)](#section-id8)
 
--   -   - [1.2.1. Homogeneous Domain Generalization-based Fault Diagnosis (HDGFD)](#section-id3)
--   -   - [1.2.2. Federated Domain Generalization-based Fault Diagnosis (FedDGFD)](#section-id4)
--   -   - [1.2.3. Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)](#section-id5)
--   -   - [1.2.4. Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)](#section-id6)
--   -   - [1.2.5. Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)](#section-id7)
--   -   - [1.2.6. Single Domain Generalization-based Fault Diagnosis (SDGFD)](#section-id8)
-  
-- [2. Data](#section-id9)
+---
 
-- [3.1. Code for Benchmark](#section-id10)
+## 📂 Resources
+- [🗂 Dataset Collection](#section-id9)
+- [💻 Benchmark Code](#section-id10)
+- [🧩 Method Implementations](#section-id13)
 
-- [3.2. Code for Method Paper](#section-id13)
+---
 
-- [4. Papers for Prognosis](#section-id11)
-
-- [5. Talk](#section-id14)
-
-- [6. Related Project](#section-id12)
+## 🚀 Beyond Fault Diagnosis
+- [🔮 Prognosis Papers](#section-id11)
+- [🎤 Talks & Tutorials](#section-id14)
+- [🌐 Related Projects](#section-id12)
 
 
 # Papers
@@ -53,16 +54,82 @@ We will continue to update this repository and hope this repository can benefit 
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] （第一篇关于DGFD的综述）
 
 
-### Homogeneous domain generalization-based fault diagnosis (HDGFD)
+### Homogeneous domain generalization-based fault diagnosis (HDGFD)----------------------------------------------------------------------------------------
 <a name="section-id3"></a>
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
 
 
+### 2026
+
+- Dynamic vision-enabled contactless machine fault diagnosis with neuromorphic domain generalization. Journal of Industrial Information Integration
+
+- Multiscale scattering forests: A domain-generalizing approach for fault diagnosis under data constraints. Knowledge-Based Systems,
+
+- Learning Category-Invariant Disentangled Features for Domain Generalization in Machine Fault Diagnosis. IEEE/ASME Transactions on Mechatronics
+
+- Multi-scale Gaussian feature enhancement and prototype graph convolutional network for domain-generalized rolling bearing fault diagnosis. Expert Systems with Applications
+
+- Cross-Domain Fault Diagnosis Method of Rotating Machinery Based on Classifier Prediction Consistency and Domain Generalization. Ieee Transactions on Instrumentation and Measurement
+
+- Decoupling intrinsic category features from domain variations for machine fault diagnosis under unknown operating conditions. Advanced Engineering Informatics
+
+- Outshining the Origin: A Pseudo Sources Fusion Approach via Knowledge Distillation With Feature Decoupling for Domain Generalization in Fault Diagnosis. IEEE Transactions on Automation Science and Engineering
+
+- Multi-perspective domain-invariant network with energy density-based data augmentation for domain generalization fault diagnosis. Expert Systems with Applications
+
+- Domain interference suppression for reliable fault diagnosis under unseen operating conditions. Mechanical Systems and Signal Processing
+
+- CFDNet: An Interpretable Causal Filtering Disentanglement Domain Generalization Network for Fault Diagnosis Under Unseen Conditions. Ieee Transactions on Industrial Informatics
+
+- Self-Distillation-Based Domain Weighted Generalization Method for Fault Diagnosis Under Actual Unseen Working Conditions. Ieee Transactions on Instrumentation and Measurement
+
+- Physics-semantics guided causal disentanglement for domain generalization in rotating machinery fault diagnosis. Advanced Engineering Informatics
+
+- Collaborative generalization diagnosis to unknown operating conditions of transmission systems considering the scenarios of target data missing on training stage. Advanced Engineering Informatics
+
+- TMFA-DG: time-multilevel feature alignment domain generalization network for intelligent fault diagnosis under unknown time-varying conditions. Measurement
+
+- A novel domain generalization framework for fault diagnosis of rotating machinery based on causal representation learning and causal feature identification. Engineering Applications of Artificial Intelligence
+
+- Wavelet packet energy embedded autoencoder with dynamic weighting strategy for fault diagnosis under unknown working conditions. Reliability Engineering & System Safety
+
+- Multi-task disentangled transformer for robust domain generalization in fault diagnosis. Measurement
+
+- Dual-stage interpretable domain generalization fault diagnosis: integrating prior knowledge and gradient-weighted class activation mapping. Engineering Applications of Artificial Intelligence
+
+- Feature Disentanglement Augmented Network for Vibration-Based Fault Diagnosis of Rotating Machinery Under Unknown Operating Conditions. Ieee Transactions on Instrumentation and Measurement
+
+- A domain generalization fault diagnosis method based on matching optimization and causal disentanglement. Engineering Applications of Artificial Intelligence
+
+- Distribution-aware consistency via aligned teacher-student domain generalization for machine fault diagnosis. Mechanical Systems and Signal Processing
+
+- Working Condition-Decoupled and Invariant-Feature Fusion Transformer for Domain Generalization Intelligent Fault Diagnosis. IEEE Transactions on Systems, Man, and Cybernetics: Systems
+
+- Target-free causal-gated domain generalization for rotating machinery fault diagnosis under operating-condition shifts in smart factories. Applied Soft Computing
+
+- A Novel Intraclass Similarity Spectrum for Multidomain Generalization Fault Diagnosis in Rotating Machinery. Ieee Transactions on Instrumentation and Measurement
+
+- A multi-source domain-invariant acoustic feature extraction network for rotating machinery fault diagnosis under unknown cross-working conditions. Engineering Applications of Artificial Intelligence
+
+- Learnable Center Domain Generalization Module for Rotating Machinery Fault Diagnosis under Cross-working Conditions. IEEE Sensors Journal
+
 ### 2025
 
+- Fully Simulated Data-Driven Domain Generalized Method for Multiphase Converters Fault Diagnosis. IEEE Transactions on Power Electronics
+
+- Multi-domain weakly decoupled domain generalization network for fault diagnosis under unknown operating conditions. Knowledge-Based Systems
+
+- Continuously Indexed Domain Generalization for Fault Diagnosis under Continuously Varying Working Conditions. Ieee Transactions on Instrumentation and Measurement
+
+- Semantics-Consistent Representation Learning for Industrial Fault Diagnosis in Unseen Domains. IEEE Internet of Things Journal
+
+- Domain Adversarial and Causal Trend Alignment Transformer: A Domain Generalization Architecture for Planetary Gearbox Cross-working Fault Diagnosis. IEEE Internet of Things Journal
+
+- A physics-guided memory enhancement and causality-inspired generalization framework for continual fault diagnosis. Knowledge-Based Systems,
+
+- Interpretable generalization diagnosis: Variational causal disentanglement-based coalitional game attribution network. Engineering Applications of Artificial Intelligence
 
 - A dual-perspective joint domain generalization network for bearing fault diagnosis under unseen working conditions  [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625003404)]
-
 
 - Specific Task-Guided Collaborative Domain Generalization Network for Intelligent Fault Diagnosis under Unseen Conditions  [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/11007102)]
 
@@ -134,6 +201,8 @@ We will continue to update this repository and hope this repository can benefit 
 - Invariant Feature Purification Method for Domain Generalization of Rolling Bearing Fault Diagnosis [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10816046)]
 
 ### 2024
+
+- Fault vibration model driven fault-aware domain generalization framework for bearing fault diagnosis. Advanced Engineering Informatics
 
 - Domain-invariant feature exploration for intelligent fault diagnosis under unseen and time-varying working conditions [[MSSP 2024](https://www.sciencedirect.com/science/article/abs/pii/S0888327024010926)]
 
@@ -305,15 +374,23 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions [[IEEE Access 2020](https://ieeexplore.ieee.org/document/9093130)]
 
-### Federated Domain Generalization-based Fault Diagnosis (FedDGFD)
+### Federated Domain Generalization-based Fault Diagnosis (FedDGFD)-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Multi-souce data are stored in different local clients.
 <a name="section-id4"></a>
 
+### 2026
+
+- Federated Domain Generalization Based on Gaussian Mapping and Constrained Quadratic Programming for Rotating Machinery Fault Diagnosis. Ieee Transactions on Instrumentation and Measurement
+
+- Hierarchical temporal-spatial graph fusion federated generalization for machine fault diagnosis. Advanced Engineering Informatics
 
 ### 2025
 
-- A Gradient Alignment Federated Domain Generalization Framework for Rotating Machinery Fault Diagnosis [[IOT 2025](https://ieeexplore.ieee.org/abstract/document/10949604)]
+- Lightweight Federated Domain Generalization With Global–Local Contrastive Learning for Machine Fault Diagnosis. IEEE Internet of Things Journal, 12(19), 40750-40763. doi:10.1109/jiot.2025.3590721
 
+- Margin-guided parameter decoupling-consensus framework for federated domain generalization in machinery fault diagnosis. Knowledge-Based Systems, 330. doi:10.1016/j.knosys.2025.114446
+
+- A Gradient Alignment Federated Domain Generalization Framework for Rotating Machinery Fault Diagnosis [[IOT 2025](https://ieeexplore.ieee.org/abstract/document/10949604)]
 
 - Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation [[IOT 2025](https://ieeexplore.ieee.org/document/10926881)]
 
@@ -348,12 +425,30 @@ We will continue to update this repository and hope this repository can benefit 
 - Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy [[KBS 2023](https://www.sciencedirect.com/science/article/pii/S095070512200973X?casa_token=cIa6MEtheM4AAAAA:MPW_GJCNCNQOuFuwA_3Gv8UvXt_PQaG6q7n6E1DijbTWQBwzf5Uk_JfEFduaIokD1sj3o4AJ)]
 
   
-### Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)
+### Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 > One source domain are labeled and other source domains are unlabeled.
 <a name="section-id5"></a>
 
+
+### 2026
+
+- A credible granular feature contrastive learning network for fault diagnosis with semi-supervised domain generalization [[SHM 2026](https://journals.sagepub.com/doi/abs/10.1177/14759217261416085)]
+
+- Semi-supervised domain generalization for fault diagnosis using adaptive pseudo-label selection and distributionally robust optimization. Engineering Applications of Artificial Intelligence
+
+- Instance-level mutual contrast network for semi-supervised domain generalization fault diagnosis. Applied Soft Computing
+
 ### 2025
+
+- One-class transformer-based feature disentanglement with clustering-driven semisupervised learning for the fault diagnosis of reciprocating machinery. ISA Trans
+
+- A two-stage semi-supervised domain generalization network for fault diagnosis under unknown working conditions. Reliability Engineering & System Safety
+
+- Physics-Informed Uncertainty-Aware Dynamic Balancing Learning Framework for Unsupervised Universal Domain Generalization Diagnosis Scenario. Ieee Transactions on Instrumentation and Measurement
+
+- Semi-supervised dynamic generalization network with dual feature enhancement strategy for machinery fault diagnosis under unseen working conditions. Mechanical Systems and Signal Processing
 
 - Domain knowledge guided pseudo-label generation framework for semi-supervised domain generalization fault diagnosis [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625004331)]
 
@@ -380,18 +475,33 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 
-### Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)
+### Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 > Class space among multiple source domains and unseen target domain is different.
 <a name="section-id6"></a>
 
+### 2026
+
+
+- Trustworthy Open Set Domain Generalization Network for Unknown Fault Diagnosis Under Unseen Conditions. Ieee Transactions on Instrumentation and Measurement
+
+- Transformer-enhanced feature extraction with adaptive thresholding for domain generalization fault diagnosis under open-set scenarios. Applied Soft Computing
+- Open-set domain generalization residual feature reconstruction network for intelligent fault diagnosis under unknown time-varying working conditions. Mechanical Systems and Signal Processing
+- Domain-augmented open-set generalization framework for fault diagnosis in rotating machinery. Engineering Applications of Artificial Intelligence
+- Knowledge regroupment and preference calibration framework for unpredicted fault diagnosis under unknown working conditions. Reliability Engineering & System Safety, 
+- Prototype-driven open-set domain generalization for rotating machinery fault diagnosis via multiview adversarial purification. Knowledge-Based Systems
+-  Adaptive spectral graph wavelet network for open set domain generalization in variable working condition fault diagnosis. Computers & Industrial Engineering
+- Causal feature-aware dynamic graph neural network for open-set domain generalization diagnosis in multi-sensor systems. Advanced Engineering Informatics
 
 ### 2025
 
+- Invariant Feature Learning and Open Space Feature Synthesis for Open Set Domain Generalization Fault Diagnosis of Rotating Machinery. Ieee Transactions on Instrumentation and Measurement
+
+- Known-aware generalization network with open-proxy for machinery fault diagnosis. Mechanical Systems and Signal Processing
+
 - Dual-contrastive Multi-view Graph Attention Network for Industrial Fault Diagnosis under Domain and Label Shift [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10891912)]
 
-
 - Auxiliary-feature-embedded causality-inspired dynamic penalty networks for open-set domain generalization diagnosis scenario [[AEI 2025](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001132)]
-
 
 - Adaptive reconstruct feature difference network for open set domain generalization fault diagnosis [[EAAI 2025](https://www.sciencedirect.com/science/article/pii/S0952197624020542)]
 
@@ -419,13 +529,29 @@ We will continue to update this repository and hope this repository can benefit 
 - Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions [[RESS 2022](https://www.sciencedirect.com/science/article/pii/S0951832022003064)][[Code](https://github.com/CHAOZHAO-1/AOSDGN)]
 
 
-## Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)
+## Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Sample number for differnt classes in source domains are different.
 <a name="section-id7"></a>
 
 
+### 2026
+
+- Few-Shot Adversarial Domain Generalization: An Out-of-Distribution Generalization Method for Fault Diagnosis Based on Lightweight Models. IEEE/ASME Transactions on Mechatronics
+
+- Digital twin-enhanced domain generalization for diagnosing few-shot faults in face gears. Journal of Intelligent Manufacturing.
+
+- Contrast-enhanced adversarial domain generalization network with data augmentation and Bayesian inference for imbalanced bearing fault diagnosis. ISA Trans,
+
+- Feature semantic alignment network for rotating machinery domain generalization fault diagnosis with limited labeled samples. Neurocomputing
+
 
 ### 2025
+
+- Sharpness-aware multidomain imbalance generalization with external adversarial learning and intrinsic balanced entropy regularization for intelligent fault diagnosis. Engineering Applications of Artificial Intelligence
+
+- Imbalanced open set domain generalization network for sensor fault diagnosis. Neurocomputing
+
+- Sharpness-aware debiased alignment for imbalanced domain generalization fault diagnosis. Engineering Applications of Artificial Intelligence
 
 - Imbalanced multidomain generalization fault diagnosis based on prototype-guided supervised contrastive learning with dynamic temperature modulation [[SHM 2025](https://journals.sagepub.com/doi/abs/10.1177/14759217251332517)]
 
@@ -441,8 +567,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 - A two-stage learning framework for imbalanced semi-supervised domain generalization fault diagnosis under unknown operating conditions [[AEI 2024](https://www.sciencedirect.com/science/article/abs/pii/S1474034624005263)]
 
-
-
 - Multi-domain Class-imbalance Generalization with Fault Relationship-induced Augmentation for Intelligent Fault Diagnosis [[TIM 2024](https://ieeexplore.ieee.org/document/10606303)]
 
 - Long-tailed multi-domain generalization for fault diagnosis of rotating machinery under variable operating conditions [[SHM 2024](https://journals.sagepub.com/doi/10.1177/14759217241256690)]
@@ -453,29 +577,63 @@ We will continue to update this repository and hope this repository can benefit 
 - Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)][[Code](https://github.com/CHAOZHAO-1/SDAGN)]
 
 
-
-
-## Single Domain Generalization-based Fault Diagnosis (SDGFD)
+## Single Domain Generalization-based Fault Diagnosis (SDGFD)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > source samples are only from a single domain.
 <a name="section-id8"></a>
 
+- A single-source domain generalization method based on multi-pseudo domain generation and feature disentanglement. Neurocomputing
+
+- A single domain generalization fault diagnosis method based on multi-scale style enhancement and causal contribution alignment. Engineering Applications of Artificial Intelligence
+
+- Single domain generalization method based on simulation-experiment data fusion and meta-learning for rotating machinery fault diagnosis. Engineering Applications of Artificial Intelligence
+
+- A causal-aware generalization network based on style-transfer data-augmentation module for single-source imbalanced domain generalization diagnosis scenario. Engineering Applications of Artificial Intelligence
+
+- Targeted Augmentation Domain-Mixed Network for Single-Source Domain Generalization Fault Diagnosis. IEEE Transactions on Reliability
+
+- Partial domain generalization via variable data augmentation for machine fault diagnosis. Measurement
+
+- A single-domain generalization framework integrating Zernike-Based detail blur feature extraction and Mamba global attention mechanism. Mechanical Systems and Signal Processing
+
+- Attention-throughout: a latent diffusion approach for single domain generalization in machinery fault diagnosis. Advanced Engineering Informatics
+
+- Simulation driven speed aware conditional diffusion model and its application to domain generalization fault diagnosis of bearings. Measurement
+
+- PurifyFD: Mining Latent Domains for Trustworthy Single-Domain Fault Diagnosis Under Open-World Shifts. Ieee Transactions on Industrial Informatics
+
+- SEE–GROW: Reliable exploration and boundary-aware learning for open-set single-domain generalization in fault diagnosis. Mechanical Systems and Signal Processing
+
+### 2026
+
+- Order spectrum correction-based imbalanced single-domain generalization fault diagnosis for bearings under varying operating conditions [[SHM 2026](https://journals.sagepub.com/doi/abs/10.1177/14759217261427303)]
+
+- Single domain generalization method based on simulation-experiment data fusion and meta-learning for rotating machinery fault diagnosis
 
 ### 2025 
 
+- Domain Perturbation With Uncertainty for Bearing Fault Diagnosis Under Unseen Conditions. IEEE Trans Cybern
 
+- A Novel Generative Domain Generalization Network for Intelligent Fault Diagnosis Under Unknown Operating Conditions. Ieee Transactions on Instrumentation and Measurement
 
--Multi-style adversarial variational self-distillation in randomized domains for single-domain generalized fault diagnosis [[CII 2025](https://www.sciencedirect.com/science/article/pii/S0166361525000843)]
+- PC3Net: A prior-causal contrast-collaboration network for single domain generalization fault diagnosis. Reliability Engineering & System Safety
 
+- IBN-MixStyle Network With Dynamic Weighted Invariant Risk Minimization for Domain-Generalized Bearing Fault Diagnosis. IEEE Transactions on Consumer Electronics
 
--A Generic Single-Source Domain Generalization Framework for Fault Diagnosis via Wavelet Packet Augmentation and Pseudo-Domain Generation [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/11015920)]
+- Discrete wavelet convolutional network with cross-contrast perturbation for single domain generalization in fault diagnosis. Mechanical Systems and Signal Processing
 
+- Balancing Discrepancy and Consistency: Adversarial Single Domain Generalization in Fault Diagnosis. Ieee Transactions on Industrial Informatics
+ 
+- Intra-domain self generalization network for intelligent fault diagnosis of bearings under unseen working conditions
+
+- Discrete wavelet convolutional network with cross-contrast perturbation for single domain generalization in fault diagnosis
+ 
+- Multi-style adversarial variational self-distillation in randomized domains for single-domain generalized fault diagnosis [[CII 2025](https://www.sciencedirect.com/science/article/pii/S0166361525000843)]
+
+- A Generic Single-Source Domain Generalization Framework for Fault Diagnosis via Wavelet Packet Augmentation and Pseudo-Domain Generation [[IoT 2025](https://ieeexplore.ieee.org/abstract/document/11015920)]
 
 - Addressing unknown faults diagnosis of transport ship propellers system based on adaptive evolutionary reconstruction metric network [[AEI 2025](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001806)]
 
-
-
 - Fault Diagnosis in Rolling Bearings Using Multi-Gaussian Attention and Covariance Loss for Single Domain Generalization [[TIM 2025](https://ieeexplore.ieee.org/abstract/document/10902562)]
-
 
 - Dual adversarial and contrastive network for single-source domain generalization in fault diagnosis [[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625000333)]
 
@@ -514,6 +672,26 @@ We will continue to update this repository and hope this repository can benefit 
 ### 2022
 
 - Adversarial Mutual Information-Guided Single Domain Generalization Network for Intelligent Fault Diagnosis [[TII 2022](https://ieeexplore.ieee.org/document/9774938)]
+
+
+
+## Multimodal Domain Generalization-based Fault Diagnosis (MDGFD)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> model input is multimodal samples.
+
+<a name="section-id13"></a>
+
+### 2026
+
+- Multimodal Domain Generalization for Inter-Turn Short-Circuit Fault Diagnosis of Permanent Magnet Synchronous Motors. IEEE Transactions on Industrial Electronics
+
+- Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments. Engineering Applications of Artificial Intelligence
+
+- A unified multi-modal domain generalization framework for fault diagnosis under class imbalance and distribution shifts. IEEE Internet of Things Journal
+
+### 2025 
+
+- Multimodal Adaptive Signal Fusion for Domain Generalization in Imbalanced Few-Shot Rotating Machinery Fault Diagnosis. Ieee Transactions on Instrumentation and Measurement
 
 
 # Data
@@ -582,8 +760,6 @@ We will continue to update this repository and hope this repository can benefit 
 - A generalized network with domain invariance and specificity representation for bearing remaining useful life prediction under unknown conditions [[KBS 2025](https://www.sciencedirect.com/science/article/pii/S0950705124015491?casa_token=YkE_7QWZliEAAAAA:IOPzRfpg-fSmtuYOXLUZBRvG3XLbtlsd2TYTx5uOC6v9M1Dt19hA6Jx4t1v6v8it5BLO5Tc62w)]
 
 
-
-
 ### 2024
 
 - Towards prognostic generalization: a domain conditional invariance and specificity disentanglement network for remaining useful life prediction [[JMS 2024](https://link.springer.com/article/10.1007/s10845-023-02215-z)]
@@ -616,7 +792,6 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 
-
 # Contact
 
 If you have any problem, please feel free to contact me.
@@ -641,6 +816,9 @@ If you find this paper and repository useful, please cite our paper☺️.
 ```
 # Related Projects
 <a name="section-id12"></a>
+
 - We collect all open source mechanical failure datasets [[Link](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)]
   
 - We have sorted out the multi-modal-based fault diagnosis, including data, papers, codes and so on [[Link](https://github.com/CHAOZHAO-1/Awsome-Multi-modal-based-PHM)]
+
+- We have sorted out the LLM-based fault diagnosis, including data, papers, codes and so on [[Link](https://github.com/CHAOZHAO-1/LLM-based-PHM)]
