@@ -20,13 +20,13 @@ We will continue to update this repository and hope this repository can benefit 
   - [Open-set DGFD (OSDGFD)](#section-id6)
   - [Imbalanced DGFD (IDGFD)](#section-id7)
   - [Single-source DGFD (SDGFD)](#section-id8)
-
+  - [Multimodal DGFD (MDGFD)](#section-id13)
 ---
 
 ## 📂 Resources
 - [🗂 Dataset Collection](#section-id9)
 - [💻 Benchmark Code](#section-id10)
-- [🧩 Method Implementations](#section-id13)
+- [🧩 Method Implementations](#section-id10)
 
 ---
 
@@ -54,10 +54,9 @@ We will continue to update this repository and hope this repository can benefit 
 - Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study [[RESS 2024](https://www.sciencedirect.com/science/article/abs/pii/S0951832024000395?via%3Dihub)] （第一篇关于DGFD的综述）
 
 
-### Homogeneous domain generalization-based fault diagnosis (HDGFD)----------------------------------------------------------------------------------------
+### Homogeneous domain generalization-based fault diagnosis (HDGFD)
 <a name="section-id3"></a>
 > Basic setting:class space between mutiple source domains and unseen target domain is same.
-
 
 ### 2026
 
@@ -287,10 +286,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Industrial process fault diagnosis based on feature enhanced meta-learning toward domain generalization scenarios [[KBS 2024](https://www.sciencedirect.com/science/article/pii/S0950705124001412)]
 
-
 - A Domain Generalization Network Exploiting Causal Representations and Non-causal Representations for Three-Phase Converter Fault Diagnosis [[TIM 2024](https://ieeexplore.ieee.org/abstract/document/10443913)]
-
-
 
 - Rolling Bearing Fault Diagnosis Method Based On Dual Invariant Feature Domain Generalization [[TIM 2024](https://ieeexplore.ieee.org/abstract/document/10436117)]
 
@@ -374,7 +370,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 - Learn Generalization Feature via Convolutional Neural Network: A Fault Diagnosis Scheme Toward Unseen Operating Conditions [[IEEE Access 2020](https://ieeexplore.ieee.org/document/9093130)]
 
-### Federated Domain Generalization-based Fault Diagnosis (FedDGFD)-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Federated Domain Generalization-based Fault Diagnosis (FedDGFD)
 > Multi-souce data are stored in different local clients.
 <a name="section-id4"></a>
 
@@ -425,7 +421,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Federated adversarial domain generalization network: A novel machinery fault diagnosis method with data privacy [[KBS 2023](https://www.sciencedirect.com/science/article/pii/S095070512200973X?casa_token=cIa6MEtheM4AAAAA:MPW_GJCNCNQOuFuwA_3Gv8UvXt_PQaG6q7n6E1DijbTWQBwzf5Uk_JfEFduaIokD1sj3o4AJ)]
 
   
-### Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Semisupervised Domain Generalization-based Fault Diagnosis (SemiDGFD)
 
 
 > One source domain are labeled and other source domains are unlabeled.
@@ -475,7 +471,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 
-### Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Open Set Domain Generalization-based Fault Diagnosis (OSDGFD)
 
 > Class space among multiple source domains and unseen target domain is different.
 <a name="section-id6"></a>
@@ -529,7 +525,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions [[RESS 2022](https://www.sciencedirect.com/science/article/pii/S0951832022003064)][[Code](https://github.com/CHAOZHAO-1/AOSDGN)]
 
 
-## Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Imbalanced Domain Generalization-based Fault Diagnosis (IDGFD)
 > Sample number for differnt classes in source domains are different.
 <a name="section-id7"></a>
 
@@ -577,7 +573,7 @@ We will continue to update this repository and hope this repository can benefit 
 - Imbalanced Domain Generalization via Semantic-Discriminative Augmentation for Intelligent Fault Diagnosis [[AEI 2023]( https://www.sciencedirect.com/science/article/pii/S1474034623003907?via%3Dihub)][[Code](https://github.com/CHAOZHAO-1/SDAGN)]
 
 
-## Single Domain Generalization-based Fault Diagnosis (SDGFD)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Single Domain Generalization-based Fault Diagnosis (SDGFD)
 > source samples are only from a single domain.
 <a name="section-id8"></a>
 
@@ -675,7 +671,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 
 
-## Multimodal Domain Generalization-based Fault Diagnosis (MDGFD)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Multimodal Domain Generalization-based Fault Diagnosis (MDGFD)
 
 > model input is multimodal samples.
 
@@ -717,10 +713,7 @@ We will continue to update this repository and hope this repository can benefit 
 
 > Our benchmark code is released at   [[Code link](https://github.com/CHAOZHAO-1/Domain-generalization-fault-diagnosis-benchmark)]  
 
-
 > Another benchmark code is released at  [[Code link](https://github.com/ShaneSpace/DGFDBenchmark)]  
-
-
 
 
 # Code for Method Paper
@@ -741,7 +734,6 @@ We will continue to update this repository and hope this repository can benefit 
 # Talk
 <a name="section-id14"></a>
 
-
 - [苏州大学沈长青教授：从域适应到域泛化：人工智能驱动的故障诊断模型探索](https://www.bilibili.com/video/BV1V34y1q758/?spm_id_from=333.337.search-card.all.click&vd_source=ec846a76720b6da306d5919873954ab5)
 
 
@@ -750,15 +742,29 @@ We will continue to update this repository and hope this repository can benefit 
 <a name="section-id11"></a>
 
 
+### 2026
+
+-CEC-FedISDG: A Cloud-Edge Collaboration Federated Invariance and Specificity Domain Generalization Method for Machine Remaining Useful Life Prediction
+
+
 ### 2025
 
 
--Towards prognostic generalization: a domain conditional invariance and specificity disentanglement network for remaining useful life prediction [[Measurement 2025](https://www.sciencedirect.com/science/article/pii/S0263224124023364?casa_token=Iy9NcEz_fPAAAAAA:HMb7ec267uBNaEqhimmpzg4rbe17H_pIf39v41GWhpDN247vl04ZomLjMYStwI-nBthzUabong)]
+- Neural ODE powered model for bearing remaining useful life predictions with intra- and inter-domain shifts
+
+- Cross-domain Remaining Useful Life prediction under unseen condition via Mixed Data and Domain Generalization
+
+ -Common distribution discrepancy knowledge distilling: A new out-of-distribution generalization framework for machinery RUL prediction
+
+- Out-of-domain generalization for remaining useful life prediction of rotating machinery from a single source: An adversarial contrastive learning approach
+
+- Domain generalization for rotating machinery real-time remaining useful life prediction via multi-domain orthogonal degradation feature exploration
+
+- Towards prognostic generalization: a domain conditional invariance and specificity disentanglement network for remaining useful life prediction [[Measurement 2025](https://www.sciencedirect.com/science/article/pii/S0263224124023364?casa_token=Iy9NcEz_fPAAAAAA:HMb7ec267uBNaEqhimmpzg4rbe17H_pIf39v41GWhpDN247vl04ZomLjMYStwI-nBthzUabong)]
 
 - Contrastive domain-invariant generalization for remaining useful life prediction under diverse conditions and fault modes [[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832024006069?casa_token=56rN4xmGmooAAAAA:yUWPSQogKbc_uAQ7nU-nKDmSSC1NmRSlT4974jC87NIeDxaoi4CpLVJW76EogdfLXLzKfD9vPA)]
 
 - A generalized network with domain invariance and specificity representation for bearing remaining useful life prediction under unknown conditions [[KBS 2025](https://www.sciencedirect.com/science/article/pii/S0950705124015491?casa_token=YkE_7QWZliEAAAAA:IOPzRfpg-fSmtuYOXLUZBRvG3XLbtlsd2TYTx5uOC6v9M1Dt19hA6Jx4t1v6v8it5BLO5Tc62w)]
-
 
 ### 2024
 
